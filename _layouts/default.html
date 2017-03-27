@@ -53,3 +53,16 @@
     <script src="/scripts/responsive.js" type="text/javascript"></script>
   </body>
 </html>
+
+$(".fadeIn").each(function() {
+    var src = $(this).data("src");
+    if (src) {
+        var img = new Image();
+        img.style.display = "none";
+        img.onload = function() {
+            $(this).fadeIn(1000);
+        };
+        $(this).append(img);            
+        img.src = src;
+    }
+});
