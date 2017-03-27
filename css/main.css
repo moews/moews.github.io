@@ -83,6 +83,7 @@ a:hover {
 
 .title {
   display: inline-block;
+  color: #787878;
   text-align: center;
   line-height: 25px;
 }
@@ -138,7 +139,7 @@ a:hover {
 }
 
 #title {
-  color: #4a4a4a;
+  color: #787878;
   margin-bottom: 0.35em;
   font-size: 3em;
   line-height: 40px;
