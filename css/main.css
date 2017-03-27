@@ -246,6 +246,7 @@ a:hover {
 .post-title {
   font-weight: 600;
   font-size: 1.25em;
+  color: #787878;
   text-transform: uppercase;
 }
 
