@@ -1,3 +1,3 @@
 name: Ben Möws
 markdown: kramdown
-pygments: true
+rouge: true
