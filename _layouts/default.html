@@ -28,15 +28,12 @@
         </div>
         <div class="posts">
           <ul class="posts-list">
-            <!--{% for post in site.categories == "posts" %}
-              {% if post.category == "home" %}
-              {% else if post.category == "posts" %}
-                <li class="post-link">
-                  <a class="post-title" href="{{ post.url }}">
-                    {{ post.title }}
-                  </a>
-                </li>
-              {% endif %}
+            {% for post in site.categories == 'posts' %}
+               <li class="post-link">
+                 <a class="post-title" href="{{ post.url }}">
+                   {{ post.title }}
+                 </a>
+               </li>
             {% endfor %}-->
           </ul>
         </div>
@@ -55,16 +52,3 @@
     <script src="/scripts/responsive.js" type="text/javascript"></script>
   </body>
 </html>
-
-$(".fadeIn").each(function() {
-    var src = $(this).data("src");
-    if (src) {
-        var img = new Image();
-        img.style.display = "none";
-        img.onload = function() {
-            $(this).fadeIn(1000);
-        };
-        $(this).append(img);            
-        img.src = src;
-    }
-});
