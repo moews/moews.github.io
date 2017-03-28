@@ -28,13 +28,15 @@
         </div>
         <div class="posts">
           <ul class="posts-list">
-            {% for post in site.categories == 'posts' %}
-               <li class="post-link">
-                 <a class="post-title" href="{{ post.url }}">
-                   {{ post.title }}
-                 </a>
-               </li>
-            {% endfor %}-->
+            {% for post in site.posts %}
+              {% if post.categories == 'posts' %}
+                <li class="post-link">
+                  <a class="post-title" href="{{ post.url }}">
+                    {{ post.title }}
+                  </a>
+                </li>
+              {% endif %}
+            {% endfor %}
           </ul>
         </div>
         <!--<div class="footer">
