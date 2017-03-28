@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Home
+date: 2017-03-24 12:00:00
 ---
 
 ## Test
