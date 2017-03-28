@@ -1,3 +1,4 @@
 name: Ben Möws
 markdown: kramdown
 rouge: true
+permalink: /:title.html
