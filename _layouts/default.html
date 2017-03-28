@@ -28,9 +28,9 @@
         </div>
         <div class="posts">
           <ul class="posts-list">
-            {% for post in site.posts %}
-              {% if post.category == "home" %}
-              {% else if post.category == "posts" %}
+            {% for post in site.categories == "posts" %}
+              <!--{% if post.category == "home" %}-->
+              <!--{% else if post.category == "posts" %}-->
                 <li class="post-link">
                   <a class="post-title" href="{{ post.url }}">
                     <!--<span class="post-date">{{ post.date | date_to_string }}</span>-->
