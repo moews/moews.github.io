@@ -184,11 +184,9 @@ a:hover {
 .post ul, .post ol {
   margin-left: 2.35em;
   margin-bottom: 1.25em;
-  float: justify;
-  display: inline-block;
+  width: 50%; 
+  margin:0px auto;
   text-align: justify;
-  text-align-last: justify;
-  justify-content: justify;
 }
 
 .post code {
