@@ -16,8 +16,8 @@ html, body {
 }
 
 body {
-  color: #4a4a4a;
-  background-color: #fafbfc;
+  color: #000000;
+  background-color: #ffffff;
   font-family: 'Raleway', Arial, sans-serif;
   font-weight: 400;
   font-size: 0.85em;
@@ -53,7 +53,7 @@ a:hover {
 }
 
 .posts a {
-  color: #444;
+  color: #000000;
 }
 
 .posts a:hover {
@@ -83,14 +83,14 @@ a:hover {
 
 .title {
   display: inline-block;
-  color: #787878;
+  color: #000000;
   text-align: center;
   line-height: 25px;
 }
 
 .tagline {
   width: 100%;
-  color: #787878;
+  color: #000000;
   font-weight: 600;
   text-align: center;
   margin-top: 0.5em;
@@ -126,7 +126,7 @@ a:hover {
   margin-bottom: 2em;
   text-transform: uppercase;
   font-weight: 600;
-  color: #787878;
+  color: #000000;
 }
 
 #cover-photo-container,
@@ -139,7 +139,7 @@ a:hover {
 }
 
 #title {
-  color: #787878;
+  color: #000000;
   margin-bottom: 0.35em;
   font-size: 3em;
   line-height: 40px;
@@ -198,7 +198,8 @@ a:hover {
 
 /* terminal */
 .post pre.terminal {
-  border: 1px solid #000;
+  border: 1px solid #
+    ;
   background-color: #333;
   color: #FFF;
 }
@@ -247,7 +248,7 @@ a:hover {
 .post-title {
   font-weight: 600;
   font-size: 1.25em;
-  color: #787878;
+  color: #000000;
   text-transform: uppercase;
 }
 
