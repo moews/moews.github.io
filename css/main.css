@@ -187,6 +187,7 @@ a:hover {
   float: justify;
   display: inline-block;
   text-align: justify;
+  text-align-last: justify;
   justify-content: justify;
 }
 
