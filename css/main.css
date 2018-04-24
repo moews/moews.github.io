@@ -184,7 +184,8 @@ a:hover {
 .post ul, .post ol {
   margin-left: 2.35em;
   margin-bottom: 1.25em;
-  margin:0px auto;
+  width: 90%; 
+  margin: 0px auto;
   text-align: justify;
 }
 
