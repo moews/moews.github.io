@@ -25,7 +25,7 @@ body {
 }
 
 a {
-  color: #8085C1;
+  color: #000000;
   text-decoration: none;
   border: none;
 }
@@ -200,12 +200,12 @@ a:hover {
 .post pre.terminal {
   border: 1px solid #
     ;
-  background-color: #333;
+  background-color: #000000;
   color: #FFF;
 }
 
 .post pre.terminal code {
-  background-color: #333;
+  background-color: #000000;
 }
 
 /*****************************************************************************/
