@@ -184,6 +184,9 @@ a:hover {
 .post ul, .post ol {
   margin-left: 2.35em;
   margin-bottom: 1.25em;
+  float: justify;
+  display: inline-block;
+  text-align: justify;
   justify-content: justify;
 }
 
