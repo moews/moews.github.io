@@ -6,7 +6,7 @@ cover: cover.jpg
 categories: posts
 ---
 
-## CONFERENCE TALKS AND POSTERS:
+## Conference talks and posters
 
 <small>Moews, B. (2018), "Non-parametric Bayesian methods for cosmological parameter estimation" (oral presentation), Statistical Challenges for large-scale structure in the era of LSST (SCLSS), Oxford, UK, April 18-20 2018</small>
 
