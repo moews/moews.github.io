@@ -1,4 +1,9 @@
-name: Ben Moews
+title: 'Ben Moews'
+description: 'Machine Cosmology'
 markdown: kramdown
 rouge: true
 permalink: /:title.html
+url: http://moews.github.io
+
+plugins:
+  - jekyll-seo-tag
