@@ -14,4 +14,4 @@ categories: posts
 
 <small>Moews, B. (2018), "High-dimensional posterior sampling with expensive likelihoods" (oral presentation), International Society for Bayesian Analysis 2018 world meeting (ISBA 2018), Edinburgh, UK, June 24-29 2018</small>
 
-<small>Moews, B. (2018), "Massively parallel Bayesian nonparametrics for cosmological parameter estimation" (oral presentation), RSS 2018 International Conference (RSS 2018), Cardiff, UK, September 3-6 2018<\small>
+<small>Moews, B. (2018), "Massively parallel Bayesian nonparametrics for cosmological parameter estimation" (oral presentation), RSS 2018 International Conference (RSS 2018), Cardiff, UK, September 3-6 2018</small>
