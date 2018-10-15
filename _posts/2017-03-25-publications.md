@@ -8,7 +8,7 @@ categories: posts
 
 ## Journal papers and pre-prints
 
-<small>Cantat-Gaudin, T. et al. (2018), "Gaia DR2 unravels incompleteness of nearby cluster population: New open clusters in the direction of Perseus, _arXiv pre-print_, Link: ([1810.05494](https://arxiv.org/abs/1810.05494))</small>
+<small>Cantat-Gaudin, T. et al. (2018), "Gaia DR2 unravels incompleteness of nearby cluster population: New open clusters in the direction of Perseus, _arXiv pre-print_ (Link: [1810.05494](https://arxiv.org/abs/1810.05494))</small>
 
 ## Conference talks and posters
 
