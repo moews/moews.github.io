@@ -6,6 +6,10 @@ cover: cover.jpg
 categories: posts
 ---
 
+## Journal papers and pre-prints
+
+<small>Cantat-Gaudin, T. et al. (2018), "Gaia DR2 unravels incompleteness of nearby cluster population: New open clusters in the direction of Perseus, arXiv pre-print ([1810.05494](https://arxiv.org/abs/1810.05494))</small>
+
 ## Conference talks and posters
 
 <small>Moews, B. (2018), "Massively parallel iterative Bayesian nonparametrics for cosmological parameter estimation" (oral presentation), _Royal Statistical Society 2018 International Conference (RSS 2018)_, Cardiff, UK, September 3-6 2018</small>
