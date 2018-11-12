@@ -9,7 +9,6 @@ categories: home
 <br>
 <img src="/images/gaussbock_examples.png" width="100%">
 
-
 Fast parallel-iterative cosmological parameter estimation with Bayesian nonparametrics!
 
 Current efforts in cosmological parameter estimation often suffer from both the computational costs of approximating distributions in high-dimensional parameter spaces and the wide-spread need for model tuning. With these contemporary problems in mind, gaussbock was developed as an easy-to-use tool for embarrassingly parallel high-dimensional parameter estimation with expensive likelihoods for the wider astronomy community. It is, however, a general-purpose posterior approximation tool suitable for many applications. In the above picture, next to the project's sublime and serious logo, you can see the iterative fitting process on a 23-dimensional DES Science Verification example.
