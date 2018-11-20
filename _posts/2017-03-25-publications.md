@@ -14,8 +14,6 @@ categories: posts
 
 ## Conference talks and posters
 
-<!--<small>Moews, B. (2019), "Synthetic galaxies with chained deep learning models" (oral presentation), _15th Durham-Edinburgh eXtragalactic Workshop (DEX-XV)_, Edinburgh, UK, January 7-8 2019 </small>-->
-
 <small>Moews, B. (2018), "Massively parallel iterative Bayesian nonparametrics for cosmological parameter estimation" (oral presentation), _Royal Statistical Society 2018 International Conference (RSS 2018)_, Cardiff, UK, September 3-6 2018</small>
 
 <small>Moews, B. (2018), "High-dimensional posterior sampling with expensive likelihoods" (oral presentation), _International Society for Bayesian Analysis 2018 World Meeting (ISBA 2018)_, Edinburgh, UK, June 24-29 2018</small>
