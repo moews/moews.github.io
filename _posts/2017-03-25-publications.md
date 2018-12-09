@@ -8,11 +8,11 @@ categories: posts
 
 ## Journal papers and preprints
 
-<small>Moews, B. et al. (2019), "Lagged correlation-based deep learning for directional trend change prediction in financial time series", _Expert Systems with Applications_, Vol. 120, pp. 197-206 ([journal](https://doi.org/10.1016/j.eswa.2018.11.027))</small>
+<small>Moews, B. et al. (2019), "Lagged correlation-based deep learning for directional trend change prediction in financial time series", _Expert Systems with Applications_, Vol. 120, pp. 197-206 ([journal](https://doi.org/10.1016/j.eswa.2018.11.027) | [arXiv:1811.11287](https://arxiv.org/abs/1811.11287))</small>
 
-<small>Fussell, L. and Moews, B. (2018), "Forging new worlds: High-resolution synthetic galaxies with chained generative adversarial networks", _preprint manuscript_ ([arXiv:1811.03081](https://arxiv.org/abs/1811.03081))</small>
+<small>Fussell, L. and Moews, B. (2018), "Forging new worlds: High-resolution synthetic galaxies with chained generative adversarial networks", _preprint_ ([arXiv:1811.03081](https://arxiv.org/abs/1811.03081))</small>
 
-<small>Cantat-Gaudin, T. et al. (2018), "Gaia DR2 unravels incompleteness of nearby cluster population: New open clusters in the direction of Perseus", _preprint manuscript_ ([arXiv:1810.05494](https://arxiv.org/abs/1810.05494))</small>
+<small>Cantat-Gaudin, T. et al. (2018), "Gaia DR2 unravels incompleteness of nearby cluster population: New open clusters in the direction of Perseus", _preprint_ ([arXiv:1810.05494](https://arxiv.org/abs/1810.05494))</small>
 
 ## Conference talks and posters
 
