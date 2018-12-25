@@ -14,7 +14,7 @@ categories: posts
 
 <small>Fussell, L. and Moews, B. (2018), "Forging new worlds: High-resolution synthetic galaxies with chained generative adversarial networks", _preprint submitted to Monthly Notices of the Royal Astronomical Society_ ([arXiv:1811.03081](https://arxiv.org/abs/1811.03081))</small>
 
-<small>Cantat-Gaudin, T. et al. (2018), "Gaia DR2 unravels incompleteness of nearby cluster population: New open clusters in the direction of Perseus", _preprint submited to Astronomy & Astrophysics Letters_ ([arXiv:1810.05494](https://arxiv.org/abs/1810.05494))</small>
+<small>Cantat-Gaudin, T. et al. (2018), "Gaia DR2 unravels incompleteness of nearby cluster population: New open clusters in the direction of Perseus", _preprint submitted to Astronomy & Astrophysics Letters_ ([arXiv:1810.05494](https://arxiv.org/abs/1810.05494))</small>
 
 ## Conference talks and posters
 
