@@ -16,7 +16,7 @@ categories: posts
 
 <small>Cantat-Gaudin, T. et al. (2018), "Gaia DR2 unravels incompleteness of nearby cluster population: New open clusters in the direction of Perseus", _preprint submitted to Astronomy & Astrophysics_ ([arXiv](https://arxiv.org/abs/1810.05494))</small>
 
-## Conference talks and posters
+## Conference presentations
 
 <small>Moews, B. (2019), "Cosmology and beyond: Solutions for high-dimensional parameter estimation" (oral presentation), _The Data Lab - Data Innovation in Scotland (DataTech19)_, Edinburgh, UK, March 14 2019</small>
 
