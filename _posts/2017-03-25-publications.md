@@ -20,7 +20,7 @@ categories: posts
 
 
 
-<small>Moews, B. (2019), "What we might miss: Stress-testing measurements of dark energy" (oral presentation), _5th Joint Statistical Meeting of the German Consortium in Statistics (DAGStat 2019)_, Munich, Germany, March 18-22 2019</small>
+<small>Moews, B. (2019), "What we might miss: Stress-testing measurements of dark energy" (oral presentation), _5th Joint Meeting of the German Consortium in Statistics (DAGStat 2019)_, Munich, Germany, March 18-22 2019</small>
 
 <small>Moews, B. (2019), "Cosmology and beyond: Solutions for high-dimensional parameter estimation" (oral presentation), _The Data Lab - Data Innovation in Scotland (DataTech19)_, Edinburgh, UK, March 14 2019</small>
 
