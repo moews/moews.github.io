@@ -18,8 +18,6 @@ categories: posts
 
 ## Conference presentations
 
-
-
 <small>Moews, B. (2019), "What we might miss: Stress-testing measurements of dark energy" (oral presentation), _5th Joint Meeting of the German Consortium in Statistics (DAGStat 2019)_, Munich, Germany, March 18-22 2019</small>
 
 <small>Moews, B. (2019), "Cosmology and beyond: Solutions for high-dimensional parameter estimation" (oral presentation), _The Data Lab - Data Innovation in Scotland (DataTech19)_, Edinburgh, UK, March 14 2019</small>
@@ -33,3 +31,5 @@ categories: posts
 <small>Moews, B. (2018), "Gaussbock: Fast parallel-iterative cosmological parameter estimation" (poster presentation), _Statistical Challenges in 21st Century Cosmology (Cosmo21)_, Valencia, Spain, May 22-25 2018</small>
 
 <small>Moews, B. (2018), "Non-parametric Bayesian methods for cosmological parameter estimation" (oral presentation), _Statistical Challenges for Large-Scale Structure in the Era of LSST (SCLSS)_, Oxford, UK, April 18-20 2018</small>
+
+<br>
