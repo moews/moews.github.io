@@ -16,3 +16,5 @@ Current efforts in cosmological parameter estimation often suffer from both the 
 With a foundation in Bayesian nonparametrics, variational inference, estimation theory and parallel computing, Gaussbock builds on our recent research in iterative sampling methods and supports both multi-processing for local cluster computing and MPI for external clusters and supercomputers, without any effort on the user's side. The source code can also be found on [GitHub](https://github.com/moews/gaussbock).
 
 Since Gaussbock is on [PyPI](https://pypi.org/project/gaussbock/), simply type `pip install gaussbock` in your terminal to install it. This project was developed for Python 3, and the installation process will automatically install any necessary dependencies. Preliminary documentation and a quickstart guide on how to use Gaussbock can be found in the source code's docstrings, with a full documentation and a paper to be uploaded on arXiv, as well as for submission in a suitable journal, currently in preparation.
+
+<br>
