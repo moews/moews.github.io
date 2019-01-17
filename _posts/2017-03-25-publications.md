@@ -20,7 +20,7 @@ categories: posts
 
 * <small>Talk: "What we might miss: Stress-testing measurements of dark energy", _5th Joint Meeting of the German Consortium in Statistics (DAGStat 2019)_, Munich, Germany, March 18-22 2019</small>
 
-* <small>Talk: "Cosmology and beyond: Solutions for high-dimensional parameter estimation", _The Data Lab - Data Innovation in Scotland (DataTech19)_, Edinburgh, UK, March 14 2019</small>
+* <small>Talk: "Cosmology and beyond: Solutions for high-dimensional parameter estimation", _DataFest - Data Innovation in Scotland (DataTech19)_, Edinburgh, UK, March 14 2019</small>
 
 * <small>Talk: "Synthetic galaxies with chained deep learning models", _15th Durham-Edinburgh eXtragalactic Workshop - Recent Innovations in Theory and Observations (DEX-XV)_, Edinburgh, UK, January 7-8 2019</small>
 
