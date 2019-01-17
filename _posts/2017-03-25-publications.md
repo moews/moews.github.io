@@ -22,7 +22,7 @@ categories: posts
 
 * <small>Talk: "Cosmology and beyond: Solutions for high-dimensional parameter estimation", _The Data Lab - Data Innovation in Scotland (DataTech19)_, Edinburgh, UK, March 14 2019</small>
 
-* <small>Talk: "Synthetic galaxies with chained deep learning models", _15th Durham-Edinburgh eXtragalactic Workshop (DEX-XV)_, Edinburgh, UK, January 7-8 2019</small>
+* <small>Talk: "Synthetic galaxies with chained deep learning models", _15th Durham-Edinburgh eXtragalactic Workshop - Recent Innovations in Theory and Observations (DEX-XV)_, Edinburgh, UK, January 7-8 2019</small>
 
 * <small>Talk: "Massively parallel iterative Bayesian nonparametrics for cosmological parameter estimation", _Royal Statistical Society 2018 International Conference (RSS 2018)_, Cardiff, UK, September 3-6 2018</small>
 
