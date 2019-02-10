@@ -18,6 +18,8 @@ categories: posts
 
 ## Conference presentations
 
+* <small>Talk: "Deep learning for portfolio risk and financial economics: Investigating trend change predictability through lagged correlations", _30th European Conference on Operational Research (EURO 2019)_, Dublin, Ireland, June 23-26 2019</small>
+
 * <small>Talk: "What we might miss: Stress-testing measurements of dark energy", _5th Joint Meeting of the German Consortium in Statistics (DAGStat 2019)_, Munich, Germany, March 18-22 2019</small>
 
 * <small>Talk: "Cosmology and beyond: Solutions for high-dimensional parameter estimation", _The Data Lab - Data Innovation in Scotland (DataTech19)_, Edinburgh, UK, March 14 2019</small>
