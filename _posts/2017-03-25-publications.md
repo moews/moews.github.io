@@ -8,7 +8,7 @@ categories: posts
 
 ## Journal papers and preprints
 
-* <small>Moews, B. et al. (2019), "Lagged correlation-based deep learning for directional trend change prediction in financial time series", _Expert Systems with Applications_, Vol. 120, pp. 197-206 ([journal](https://doi.org/10.1016/j.eswa.2018.11.027) | [arXiv](https://arxiv.org/abs/1811.11287))</small>
+<!--* <small>Moews, B. et al. (2019), "Lagged correlation-based deep learning for directional trend change prediction in financial time series", _Expert Systems with Applications_, Vol. 120, pp. 197-206 ([journal](https://doi.org/10.1016/j.eswa.2018.11.027) | [arXiv](https://arxiv.org/abs/1811.11287))</small>-->
 
 * <small>Moews, B. et al. (2018), "Stress testing the dark energy equation of state imprint on supernova data", _submitted to Physical Review D - Particles, Fields, Gravitation, and Cosmology_ ([arXiv](https://arxiv.org/abs/1812.09786))</small>
 
