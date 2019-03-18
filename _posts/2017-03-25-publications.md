@@ -8,7 +8,7 @@ categories: posts
 
 ## Journal papers and preprints
 
-* <small>Moews, B. and Ibikunle, G., "Predictive intraday correlations in stable and volatile market environments: Evidence from deep learning", _submitted to Quantitative Finance_</small>
+<!--* <small>Moews, B. and Ibikunle, G., "Predictive intraday correlations in stable and volatile market environments: Evidence from deep learning", _submitted to Quantitative Finance_</small>-->
 
 * <small>Fussell, L. and Moews, B. (2019), "Forging new worlds: High-resolution synthetic galaxies with chained generative adversarial networks", _MNRAS_, Vol. 485(3), pp. 3203-3214 ([journal](https://academic.oup.com/mnras/article/485/3/3203/5368366) | [arXiv](https://arxiv.org/abs/1811.03081))</small>
 
