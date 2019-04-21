@@ -8,6 +8,8 @@ categories: posts
 
 ## Journal papers and preprints
 
+<!--* <small>Boucaud, A. et al. (2019), "Photometry of high-redshift blended galaxies using deep learning", _submitted to Monthly Notices of the Royal Astronomical Society_ ([arxiv](XXX))</small>-->
+
 <!--* <small>Moews, B. and Ibikunle, G., (2019), "Predictive intraday correlations in stable and volatile market environments: Evidence from deep learning", _submitted to Quantitative Finance_</small>-->
 
 * <small>Cantat-Gaudin, T. et al. (2019), "Gaia DR2 unravels incompleteness of nearby cluster population: New open clusters in the direction of Perseus", _accepted for publication in Astronomy & Astrophysics_ ([journal](https://doi.org/10.1051/0004-6361/201834453) | [arXiv](https://arxiv.org/abs/1810.05494))</small>
