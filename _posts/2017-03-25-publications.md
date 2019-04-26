@@ -8,8 +8,6 @@ categories: posts
 
 ## Journal papers and preprints
 
-<small>(Some papers not listed due to being under review at journals with a double-blind review process.)</small>
-
 <!--* <small>Boucaud, A. et al. (2019), "Photometry of high-redshift blended galaxies using deep learning", _submitted to Monthly Notices of the Royal Astronomical Society_ ([arxiv](XXX))</small>-->
 
 <!--* <small>Moews, B. and Ibikunle, G., (2019), "Predictive intraday correlations in stable and volatile market environments: Evidence from deep learning", _submitted to Quantitative Finance_</small>-->
