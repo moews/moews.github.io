@@ -24,7 +24,7 @@ categories: posts
 
 
 
-* <small>Talk: "Deep-learned baryons: Hybrid emulators for high-speed cosmological simulations", _National Astronomy Meeting (NAM2019)_, Lancaster, UK, Jun 30 to Jul 4, 2019</small>
+* <small>Talk: "Deep-learned baryons: Hybrid emulators for high-speed cosmological simulations", _National Astronomy Meeting of the Royal Astronomical Society (NAM2019)_, Lancaster, UK, Jun 30 to Jul 4, 2019</small>
 
 * <small>Talk: "Deep learning for portfolio risk and financial economics: Investigating trend change predictability through lagged correlations", _30th Eur. Conference on OR (EURO 2019)_, Dublin, Ireland, Jun 23 to Jun 26, 2019</small>
 
