@@ -26,9 +26,9 @@ categories: posts
 
 * <small>Talk: "Deep-learned baryons: Hybrid emulators for high-speed cosmological simulations", _National Astronomy Meeting (NAM2019)_, Lancaster, UK, June 30-July 4 2019</small>
 
-* <small>Talk: "Synthetic datasets for modern cosmology: Creating galaxies with multi-stage GANs", _Artificial Intelligence Methods in Cosmology (AICosmo2019)_, Ascona, Switzerland, June 9-12 2019</small>
-
 * <small>Talk: "Deep learning for portfolio risk and financial economics: Investigating trend change predictability through lagged correlations", _30th European Conference on OR (EURO 2019)_, Dublin, Ireland, June 23-26 2019</small>
+
+* <small>Talk: "Synthetic datasets for modern cosmology: Creating galaxies with multi-stage GANs", _Artificial Intelligence Methods in Cosmology (AICosmo2019)_, Ascona, Switzerland, June 9-12 2019</small>
 
 * <small>Talk: "What we might miss: Stress-testing measurements of dark energy", _5th Joint Meeting of the German Consortium in Statistics (DAGStat 2019)_, Munich, Germany, March 18-22 2019</small>
 
