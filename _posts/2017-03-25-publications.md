@@ -14,8 +14,6 @@ categories: posts
 
 * <small>Boucaud, A. et al. (2019), "Photometry of high-redshift blended galaxies using deep learning", _submitted to Monthly Notices of the Royal Astronomical Society_</small>
 
-* <small>Boucaud, A. et al. (2019), "Photometry of high-redshift blended galaxies using deep learning", _submitted to Monthly Notices of the Royal Astronomical Society_</small>
-
 * <small>Cantat-Gaudin, T. et al. (2019), "Gaia DR2 unravels incompleteness of nearby cluster population: New open clusters in the direction of Perseus", _Astronomy & Astrophysics_, Vol. 624, pp. A126 ([journal](https://doi.org/10.1051/0004-6361/201834453) | [arXiv](https://arxiv.org/abs/1810.05494))</small>
 
 * <small>Fussell, L. and Moews, B. (2019), "Forging new worlds: High-resolution synthetic galaxies with chained generative adversarial networks", _MNRAS_, Vol. 485(3), pp. 3203-3214 ([journal](https://doi.org/10.1093/mnras/stz602) | [arXiv](https://arxiv.org/abs/1811.03081))</small>
