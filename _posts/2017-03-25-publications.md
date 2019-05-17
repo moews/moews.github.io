@@ -24,7 +24,7 @@ categories: posts
 
 ## Conference presentations
 
-* <small>Talk: "How random are intraday stock prices? Evidence from deep learning", _3rd European Capital Markets Cooperative Reseatch Center Workshop_, Dublin, Ireland, July 5, 2019</small>
+* <small>Talk: "How random are intraday stock prices? Evidence from deep learning", _3rd European Capital Markets Cooperative Research Center Workshop_, Dublin, Ireland, July 5, 2019</small>
 
 * <small>Talk: "Deep-learned baryons: Hybrid emulators for high-speed cosmological simulations", _National Astronomy Meeting of the Royal Astronomical Society (NAM2019)_, Lancaster, UK, June-July 30-4, 2019</small>
 
