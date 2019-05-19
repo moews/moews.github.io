@@ -8,9 +8,11 @@ categories: posts
 
 ## Journal papers and preprints
 
-<!--* <small>Moews, B. and Ibikunle, G., (2019), "Predictive intraday correlations in stable and volatile market environments: Evidence from deep learning", _submitted to Quantitative Finance_</small>-->
+<!--<small>Giblin, B. et al. (2019), "On the road to per cent level accuracy II: Non-linear calibration for arbitrary cosmologies", _submitted to Monthly Notices of the Royal Astronomical Society_</small>-->
 
 <!--* <small>Moews, B. and Zuntz, J., (2019), "Gaussbock: Fast parallel-iterative cosmological parameter estimation with Bayesian nonparametrics", _submitted to The Astrophysical Journal_</small>-->
+
+<!--* <small>Moews, B. and Ibikunle, G., (2019), "Predictive intraday correlations in stable and volatile market environments: Evidence from deep learning", _submitted to Quantitative Finance_</small>-->
 
 * <small>Boucaud, A. et al. (2019), "Photometry of high-redshift blended galaxies using deep learning", _submitted to Monthly Notices of the Royal Astronomical Society_ ([arXiv](https://arxiv.org/abs/1905.01324))</small>
 
