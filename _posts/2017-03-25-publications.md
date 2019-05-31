@@ -12,6 +12,8 @@ categories: posts
 
 <!--* <small>Moews, B. and Ibikunle, G., (2019), "Predictive intraday correlations in stable and volatile market environments: Evidence from deep learning", _submitted to Quantitative Finance_</small>-->
 
+* <small>Moews, B. et al. (2019), "Stress testing the dark energy equation of state imprint on supernova data", _accepted for publication in Physical Review D ([journal](https://journals.aps.org/prd/accepted/b8075Q4aMf71df2c020239c6be1ec7172bc1046c1) | [arXiv](https://arxiv.org/abs/1812.09786))</small>
+
 * <small>Moews, B. and Zuntz, J., (2019), "Gaussbock: Fast parallel-iterative cosmological parameter estimation with Bayesian nonparametrics", _submitted to The Astrophysical Journal_ ([arXiv](https://arxiv.org/abs/1905.09800))</small>
 
 * <small>Boucaud, A. et al. (2019), "Photometry of high-redshift blended galaxies using deep learning", _submitted to Monthly Notices of the Royal Astronomical Society_ ([arXiv](https://arxiv.org/abs/1905.01324))</small>
@@ -21,8 +23,6 @@ categories: posts
 * <small>Fussell, L. and Moews, B. (2019), "Forging new worlds: High-resolution synthetic galaxies with chained generative adversarial networks", _MNRAS_, Vol. 485(3), pp. 3203-3214 ([journal](https://doi.org/10.1093/mnras/stz602) | [arXiv](https://arxiv.org/abs/1811.03081))</small>
 
 * <small>Moews, B. et al. (2019), "Lagged correlation-based deep learning for directional trend change prediction in financial time series", _Expert Systems with Applications_, Vol. 120, pp. 197-206 ([journal](https://doi.org/10.1016/j.eswa.2018.11.027) | [arXiv](https://arxiv.org/abs/1811.11287))</small>
-
-* <small>Moews, B. et al. (2018), "Stress testing the dark energy equation of state imprint on supernova data", _submitted to Physical Review D - Particles, Fields, Gravitation, and Cosmology_ ([arXiv](https://arxiv.org/abs/1812.09786))</small>
 
 ## Conference presentations
 
