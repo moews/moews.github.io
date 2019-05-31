@@ -12,7 +12,7 @@ categories: posts
 
 <!--* <small>Moews, B. and Ibikunle, G., (2019), "Predictive intraday correlations in stable and volatile market environments: Evidence from deep learning", _submitted to Quantitative Finance_</small>-->
 
-* <small>Moews, B. et al. (2019), "Stress testing the dark energy equation of state imprint on supernova data", _accepted for publication in Physical Review D ([journal](https://journals.aps.org/prd/accepted/b8075Q4aMf71df2c020239c6be1ec7172bc1046c1) | [arXiv](https://arxiv.org/abs/1812.09786))</small>
+* <small>Moews, B. et al. (2019), "Stress testing the dark energy equation of state imprint on supernova data", _accepted for publication in Physical Review D_ ([journal](https://journals.aps.org/prd/accepted/b8075Q4aMf71df2c020239c6be1ec7172bc1046c1) | [arXiv](https://arxiv.org/abs/1812.09786))</small>
 
 * <small>Moews, B. and Zuntz, J., (2019), "Gaussbock: Fast parallel-iterative cosmological parameter estimation with Bayesian nonparametrics", _submitted to The Astrophysical Journal_ ([arXiv](https://arxiv.org/abs/1905.09800))</small>
 
