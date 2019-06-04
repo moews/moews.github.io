@@ -8,7 +8,7 @@ categories: posts
 
 ## Journal papers and preprints
 
-<!--<small>Giblin, B. et al. (2019), "On the road to per cent level accuracy II: Non-linear calibration for arbitrary cosmologies", _submitted to Monthly Notices of the Royal Astronomical Society_</small>-->
+<!--<small>Giblin, B. et al. (2019), "On the road to per cent level accuracy II: Calibration of the non-linear matter power spectrum for arbitrary cosmologies", _submitted to Monthly Notices of the Royal Astronomical Society_</small>-->
 
 <!--* <small>Moews, B. and Ibikunle, G., (2019), "Predictive intraday correlations in stable and volatile market environments: Evidence from deep learning", _submitted to Quantitative Finance_</small>-->
 
@@ -26,7 +26,7 @@ categories: posts
 
 ## Conference presentations
 
-* <small>Talk: "How random are intraday stock prices? Evidence from deep learning", _3rd European Capital Markets Cooperative Research Center Workshop_, Dublin, Ireland, July 5, 2019</small>
+* <small>Talk: "How random are intraday stock prices? Evidence from deep learning", _3rd Eur. Capital Markets Cooperative Research Center Workshop_, Dublin, Ireland, July 5, 2019</small>
 
 * <small>Talk: "Deep-learned baryons: Hybrid emulators for high-speed cosmological simulations", _National Astronomy Meeting of the Royal Astronomical Society (NAM2019)_, Lancaster, UK, June-July 30-4, 2019</small>
 
