@@ -10,9 +10,9 @@ categories: posts
 
 <!--* <small>Moews, B. et al. (2019), "Filaments of crime: Informing policing via thresholded ridge estimation", _submitted to Journal of Quantitative Criminology_ ([arXiv]())</small>-->
 
-<!--* <small>Giblin, B. et al. (2019), "On the road to per cent level accuracy II: Calibration of the non-linear matter power spectrum for arbitrary cosmologies", _submitted to Monthly Notices of the Royal Astronomical Society_ ([arXiv]())</small>-->
-
 <!--* <small>Moews, B. and Ibikunle, G., (2019), "Predictive intraday correlations in stable and volatile market environments: Evidence from deep learning", _submitted to Quantitative Finance_</small>-->
+
+<!--* <small>Giblin, B. et al. (2019), "On the road to per cent level accuracy II: Calibration of the non-linear matter power spectrum for arbitrary cosmologies", _submitted to Monthly Notices of the Royal Astronomical Society_ ([arXiv]())</small>-->
 
 * <small>Moews, B. et al. (2019), "Stress testing the dark energy equation of state imprint on supernova data", _accepted for publication in Physical Review D_ ([journal](https://journals.aps.org/prd/accepted/b8075Q4aMf71df2c020239c6be1ec7172bc1046c1) | [arXiv](https://arxiv.org/abs/1812.09786))</small>
 
