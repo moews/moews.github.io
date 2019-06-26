@@ -14,7 +14,7 @@ categories: posts
 
 * <small>Giblin, B. et al. (2019), "On the road to per cent level accuracy II: Calibration of the non-linear matter power spectrum for arbitrary cosmologies", _submitted to Monthly Notices of the RAS_ ([arXiv](https://arxiv.org/abs/1906.02742))</small>
 
-* <small>Moews, B. et al. (2019), "Stress testing the dark energy equation of state imprint on supernova data", _accepted for publication in Physical Review D_ ([journal](https://journals.aps.org/prd/accepted/b8075Q4aMf71df2c020239c6be1ec7172bc1046c1) | [arXiv](https://arxiv.org/abs/1812.09786))</small>
+* <small>Moews, B. et al. (2019), "Stress testing the dark energy equation of state imprint on supernova data", _Physical Review D_, Vol. 99, pp. 123529 ([journal](https://doi.org/10.1103/PhysRevD.99.123529) | [arXiv](https://arxiv.org/abs/1812.09786))</small>
 
 * <small>Moews, B. and Zuntz, J., (2019), "Gaussbock: Fast parallel-iterative cosmological parameter estimation with Bayesian nonparametrics", _submitted to The Astrophysical Journal_ ([arXiv](https://arxiv.org/abs/1905.09800))</small>
 
