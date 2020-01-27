@@ -28,7 +28,7 @@ categories: posts
 
 ## Conference presentations
 
-* <small>Talk: "Ridge-estimating DES", _16th Durham-Edinburgh eXtragalactic Workshop: 2020 Vision - Progress and Tensions in Astronomy (DEX-XV)_, Durham, UK, January 6-7, 2020</small>
+* <small>Talk: "Ridge-estimating DES", _16th Durham-Edinburgh eXtragalactic Workshop: 2020 Vision - Progress and Tensions in Astronomy (DEX-XVI)_, Durham, UK, January 6-7, 2020</small>
 
 * <small>Talk: "How random are intraday stock prices? Evidence from deep learning", _3rd Eur. Capital Markets Cooperative Research Center Workshop_, Dublin, Ireland, July 5, 2019</small>
 
