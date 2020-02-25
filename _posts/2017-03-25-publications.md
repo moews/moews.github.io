@@ -8,7 +8,7 @@ categories: posts
 
 ## Journal papers and preprints
 
-* <small>Moews, B. and Ibikunle, G., (2019), "Predictive intraday correlations in stable and volatile market environments: Evidence from deep learning", _accepted for publication in Physica A_</small>
+* <small>Moews, B. and Ibikunle, G., (2019), "Predictive intraday correlations in stable and volatile market environments: Evidence from deep learning", _accepted for publication in Physica A_ ([arxiv](https://arxiv.org/abs/2002.10385))</small>
 
 * <small>Moews, B. et al. (2019), "Filaments of crime: Informing policing via thresholded ridge estimation", _under review at Journal of Quantitative Criminology_ ([arXiv](https://arxiv.org/abs/1907.03206))</small>
 
