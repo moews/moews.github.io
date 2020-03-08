@@ -10,7 +10,7 @@ categories: posts
 
 * <small>Moews, B. and Ibikunle, G., (2020), "Predictive intraday correlations in stable and volatile market environments: Evidence from deep learning", _accepted for publication in Physica A_ ([journal](https://doi.org/10.1016/j.physa.2020.124392) | [arxiv](https://arxiv.org/abs/2002.10385))</small>
 
-* <small>Moews, B. et al. (2019), "Filaments of crime: Informing policing via thresholded ridge estimation", _under review at Journal of Quantitative Criminology_ ([arXiv](https://arxiv.org/abs/1907.03206))</small>
+* <small>Moews, B. et al. (2019), "Filaments of crime: Informing policing via thresholded ridge estimation", _working paper_ ([arXiv](https://arxiv.org/abs/1907.03206))</small>
 
 * <small>Giblin, B. et al. (2019), "On the road to per cent level accuracy II: Calibration of the non-linear matter power spectrum for arbitrary cosmologies", _Monthly Notices of the RAS_, Vol. 490(4), pp. 4826-4840 ([journal](https://doi.org/10.1093/mnras/stz2659) | [arXiv](https://arxiv.org/abs/1906.02742))</small>
 
