@@ -8,6 +8,8 @@ categories: posts
 
 ## Journal papers and preprints
 
+* <small>Moews, B. and Zuntz, J., (2020), "Gaussbock: Fast parallel-iterative cosmological parameter estimation with Bayesian nonparametrics", _accepted for publication in The Astrophysical Journal_ ([arXiv](https://arxiv.org/abs/1905.09800))</small>
+
 * <small>Moews, B. and Ibikunle, G., (2020), "Predictive intraday correlations in stable and volatile market environments: Evidence from deep learning", _Physica A_, Vol. 547, pp. 124392 ([journal](https://doi.org/10.1016/j.physa.2020.124392) | [arxiv](https://arxiv.org/abs/2002.10385))</small>
 
 * <small>Moews, B. et al. (2019), "Filaments of crime: Informing policing via thresholded ridge estimation", _working paper_ ([arXiv](https://arxiv.org/abs/1907.03206))</small>
@@ -15,8 +17,6 @@ categories: posts
 * <small>Giblin, B. et al. (2019), "On the road to per cent level accuracy II: Calibration of the non-linear matter power spectrum for arbitrary cosmologies", _Monthly Notices of the RAS_, Vol. 490(4), pp. 4826-4840 ([journal](https://doi.org/10.1093/mnras/stz2659) | [arXiv](https://arxiv.org/abs/1906.02742))</small>
 
 * <small>Moews, B. et al. (2019), "Stress testing the dark energy equation of state imprint on supernova data", _Physical Review D_, Vol. 99, pp. 123529 ([journal](https://doi.org/10.1103/PhysRevD.99.123529) | [arXiv](https://arxiv.org/abs/1812.09786))</small>
-
-* <small>Moews, B. and Zuntz, J., (2019), "Gaussbock: Fast parallel-iterative cosmological parameter estimation with Bayesian nonparametrics", _under review at The Astrophysical Journal_ ([arXiv](https://arxiv.org/abs/1905.09800))</small>
 
 * <small>Boucaud, A. et al. (2019), "Photometry of high-redshift blended galaxies using deep learning", _Monthly Notices of the RAS_, Vol. 491(2), pp. 2481-2495 ([journal](https://doi.org/10.1093/mnras/stz3056) | [arXiv](https://arxiv.org/abs/1905.01324))</small>
 
