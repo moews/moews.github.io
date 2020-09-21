@@ -30,7 +30,7 @@ categories: posts
 
 ## Conference presentations
 
-* <small>Talk: "Deep-learning for predictive correlations in stable and volatile markets", _1st Edinburgh Conference on the Economics of Financial Technology (EFT 2020)_, Edinburgh, UK, June 17-19, 2020</small>
+* <small>Talk: "Deep-learning for predictive correlations in stable and volatile markets", _1st Edinburgh Conference on the Economics of Financial Technology (EFT 2020)_, Edinburgh, UK, postponed due to the COVID‑19 pandemic</small>
 
 * <small>Talk: "Ridge-estimating DES", _16th Durham-Edinburgh eXtragalactic Workshop: 2020 Vision - Progress and Tensions in Astronomy (DEX-XVI)_, Durham, UK, January 6-7, 2020</small>
 
