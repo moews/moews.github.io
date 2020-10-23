@@ -30,7 +30,7 @@ categories: posts
 
 ## Conference presentations
 
-* <small>Talk: "From dark matter to baryons: Hybrid machine learning frameworks to inpaint N-body simulations", _AI and Benchmarking in Astrophysics_, EPSRC ExCALIBUR Programme (online), December 6-7, 2020</small>
+* <small>Talk: "From dark matter to baryons: Hybrid machine learning frameworks for N-body simulations", _AI and Benchmarking in Astrophysics_, EPSRC ExCALIBUR Programme (online), December 6-7, 2020</small>
 
 * <small>Talk: "Policing route optimization via density-based principal curves", _13th International Conference on Computational and Methodological Statistics (CMStatistics 2020)_, London, UK, December 19-21</small>
 
