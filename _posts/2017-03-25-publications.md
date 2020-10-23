@@ -30,9 +30,11 @@ categories: posts
 
 ## Conference presentations
 
+* <small>Talk: "From dark matter to baryons: Hybrid machine learning frameworks to inpaint N-body simulations", _AI and Benchmarking in Astrophysics_, EPSRC ExCALIBUR Programme (online), December 6-7, 2020</small>
+
 * <small>Talk: "Policing route optimization via density-based principal curves", _13th International Conference on Computational and Methodological Statistics (CMStatistics 2020)_, London, UK, December 19-21</small>
 
-* <small>Talk: "Ridges across fields: From criminology to cosmology", _Benchmarking for AI for Science at Exascale (BASE)_, EPSRC ExCALIBUR Programme (online), September 28- October 2, 2020</small>
+* <small>Talk: "Ridges across fields: From criminology to cosmology", _Benchmarking for AI for Science at Exascale (BASE)_, EPSRC ExCALIBUR Programme (online), September-October 28-2, 2020</small>
 
 * <small>Talk: "Deep-learning for predictive correlations in stable and volatile markets", _1st Edinburgh Conference on the Economics of Financial Technology (EFT 2020)_, Edinburgh, UK, postponed due to COVID‑19</small>
 
