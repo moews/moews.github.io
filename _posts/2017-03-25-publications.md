@@ -8,7 +8,7 @@ categories: posts
 
 ## Journal papers and preprints
 
-* <small>Moews, B. et al. (2021), "Ridges in the Dark Energy Survey for cosmic trough identification", _accepted for publication in Monthly Notices of the RAS_ ([journal](https://doi.org/10.1093/mnras/staa3204) | [arxiv](https://arxiv.org/abs/2005.08583))</small>
+* <small>Moews, B. et al. (2020), "Ridges in the Dark Energy Survey for cosmic trough identification", _accepted for publication in Monthly Notices of the RAS_ ([journal](https://doi.org/10.1093/mnras/staa3204) | [arxiv](https://arxiv.org/abs/2005.08583))</small>
 
 * <small>Moews, B. and Zuntz, J., (2020), "Gaussbock: Fast parallel-iterative cosmological parameter estimation with Bayesian nonparametrics", _The Astrophysical Journal_, Vol. 896(2), pp. 98 ([journal](https://doi.org/10.3847%2F1538-4357%2Fab93cb) | [arXiv](https://arxiv.org/abs/1905.09800))</small>
 
@@ -16,7 +16,7 @@ categories: posts
 
 * <small>Moews, B. et al. (2020), "Filaments of crime: Informing policing via thresholded ridge estimation", _under review at Decision Support Systems_ ([arXiv](https://arxiv.org/abs/1907.03206))</small>
 
-* <small>Boucaud, A. et al. (2020), "Photometry of high-redshift blended galaxies using deep learning", _Monthly Notices of the RAS_, Vol. 491(2), pp. 2481-2495 ([journal](https://doi.org/10.1093/mnras/stz3056) | [arXiv](https://arxiv.org/abs/1905.01324))</small>
+* <small>Boucaud, A. et al. (2019), "Photometry of high-redshift blended galaxies using deep learning", _Monthly Notices of the RAS_, Vol. 491(2), pp. 2481-2495 ([journal](https://doi.org/10.1093/mnras/stz3056) | [arXiv](https://arxiv.org/abs/1905.01324))</small>
 
 * <small>Giblin, B. et al. (2019), "On the road to per cent level accuracy II: Calibration of the non-linear matter power spectrum for arbitrary cosmologies", _Monthly Notices of the RAS_, Vol. 490(4), pp. 4826-4840 ([journal](https://doi.org/10.1093/mnras/stz2659) | [arXiv](https://arxiv.org/abs/1906.02742))</small>
 
@@ -26,7 +26,7 @@ categories: posts
 
 * <small>Cantat-Gaudin, T. et al. (2019), "Gaia DR2 unravels incompleteness of nearby cluster population: New open clusters in the direction of Perseus", _Astronomy & Astrophysics_, Vol. 624, pp. A126 ([journal](https://doi.org/10.1051/0004-6361/201834453) | [arXiv](https://arxiv.org/abs/1810.05494))</small>
 
-* <small>Moews, B. et al. (2019), "Lagged correlation-based deep learning for directional trend change prediction in financial time series", _Expert Systems with Applications_, Vol. 120, pp. 197-206 ([journal](https://doi.org/10.1016/j.eswa.2018.11.027) | [arXiv](https://arxiv.org/abs/1811.11287))</small>
+* <small>Moews, B. et al. (2018), "Lagged correlation-based deep learning for directional trend change prediction in financial time series", _Expert Systems with Applications_, Vol. 120, pp. 197-206 ([journal](https://doi.org/10.1016/j.eswa.2018.11.027) | [arXiv](https://arxiv.org/abs/1811.11287))</small>
 
 ## Conference presentations
 
