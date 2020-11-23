@@ -8,7 +8,7 @@ categories: posts
 
 ## Journal papers and preprints
 
-* <small>Moews, B. et al. (2020), "Ridges in the Dark Energy Survey for cosmic trough identification", _accepted for publication in Monthly Notices of the RAS_ ([journal](https://doi.org/10.1093/mnras/staa3204) | [arxiv](https://arxiv.org/abs/2005.08583))</small>
+* <small>Moews, B. et al. (2020), "Ridges in the Dark Energy Survey for cosmic trough identification", _accepted for publication in Monthly Notices of the RAS_, Vol 500(1), pp.859-870 ([journal](https://doi.org/10.1093/mnras/staa3204) | [arxiv](https://arxiv.org/abs/2005.08583))</small>
 
 * <small>Moews, B. and Zuntz, J., (2020), "Gaussbock: Fast parallel-iterative cosmological parameter estimation with Bayesian nonparametrics", _The Astrophysical Journal_, Vol. 896(2), pp. 98 ([journal](https://doi.org/10.3847%2F1538-4357%2Fab93cb) | [arXiv](https://arxiv.org/abs/1905.09800))</small>
 
