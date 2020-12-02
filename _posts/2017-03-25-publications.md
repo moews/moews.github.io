@@ -30,9 +30,11 @@ categories: posts
 
 ## Conference presentations
 
-* <small>Talk: "Machine learning frameworks to inpaint baryonic properties in N-body simulations", _AI and Benchmarking in Astrophysics_, EPSRC ExCALIBUR Programme (online), December 6-7, 2020</small>
+* <small>Talk: "Hybrid hydrodynamics: Merging analytical and machine learning models", _17th Durham-Edinburgh eXtragalactic Workshop: Traces of new Physics - Insights Into the Unknown (DEX-XVII)_, Durham, UK, January 6-7, 2021</small>
 
-* <small>Talk: "Policing route optimization via density-based principal curves", _13th International Conference on Computational and Methodological Statistics (CMStatistics 2020)_, London, UK, December 19-21</small>
+* <small>Talk: "Policing route optimization via density-based principal curves", _13th International Conference on Computational and Methodological Statistics (CMStatistics 2020)_, London, UK, December 19-21, 2020</small>
+
+* <small>Talk: "Machine learning frameworks to inpaint baryonic properties in N-body simulations", _AI and Benchmarking in Astrophysics_, EPSRC ExCALIBUR Programme (online), December 6-7, 2020</small>
 
 * <small>Talk: "Ridges across fields: From criminology to cosmology", _Benchmarking for AI for Science at Exascale (BASE)_, EPSRC ExCALIBUR Programme (online), September-October 28-2, 2020</small>
 
