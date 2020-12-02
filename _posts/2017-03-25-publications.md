@@ -34,7 +34,7 @@ categories: posts
 
 * <small>Talk: "Policing route optimization via density-based principal curves", _13th International Conference on Computational and Methodological Statistics (CMStatistics 2020)_, London, UK, December 19-21, 2020</small>
 
-* <small>Talk: "Machine learning frameworks to inpaint baryonic properties in N-body simulations", _AI and Benchmarking in Astrophysics_, EPSRC ExCALIBUR Programme (online), December 6-7, 2020</small>
+* <small>Talk: "Machine learning frameworks to inpaint baryonic properties in N-body simulations", _AI and Benchmarking in Astrophysics_, EPSRC ExCALIBUR Programme (online), December 7-8, 2020</small>
 
 * <small>Talk: "Ridges across fields: From criminology to cosmology", _Benchmarking for AI for Science at Exascale (BASE)_, EPSRC ExCALIBUR Programme (online), September-October 28-2, 2020</small>
 
