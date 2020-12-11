@@ -10,7 +10,7 @@ categories: posts
 
 https://arxiv.org/abs/2012.05820
 
-* <small>Moews, B. et al. (2020), "Ridges in the Dark Energy Survey for cosmic trough identification", _under review at Monthly Notices of the RAS_ ([arxiv](https://arxiv.org/abs/2012.05820))</small>
+* <small>Moews, B. et al. (2020), "Hybrid analytic and machine-learned baryonic property insertion into galactic dark matter haloes", _under review at Monthly Notices of the RAS_ ([arxiv](https://arxiv.org/abs/2012.05820))</small>
 
 * <small>Moews, B. et al. (2020), "Ridges in the Dark Energy Survey for cosmic trough identification", _Monthly Notices of the RAS_, Vol 500(1), pp. 859-870 ([journal](https://doi.org/10.1093/mnras/staa3204) | [arxiv](https://arxiv.org/abs/2005.08583))</small>
 
