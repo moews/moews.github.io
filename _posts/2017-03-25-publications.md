@@ -8,9 +8,9 @@ categories: posts
 
 ## Journal papers and preprints
 
-* <small>Moews, B. et al. (2020), "Filaments of crime: Informing policing via thresholded ridge estimation", _accepted for publication in Decision Support Systems_ ([arXiv](https://arxiv.org/abs/1907.03206))</small>
-
 * <small>Moews, B. et al. (2020), "Hybrid analytic and machine-learned baryonic property insertion into galactic dark matter haloes", _under review in Monthly Notices of the RAS_ ([arxiv](https://arxiv.org/abs/2012.05820))</small>
+
+* <small>Moews, B. et al. (2020), "Filaments of crime: Informing policing via thresholded ridge estimation", _accepted for publication in Decision Support Systems_ ([arXiv](https://arxiv.org/abs/1907.03206))</small>
 
 * <small>Moews, B. et al. (2020), "Ridges in the Dark Energy Survey for cosmic trough identification", _Monthly Notices of the RAS_, Vol. 500(1), pp. 859-870 ([journal](https://doi.org/10.1093/mnras/staa3204) | [arxiv](https://arxiv.org/abs/2005.08583))</small>
 
