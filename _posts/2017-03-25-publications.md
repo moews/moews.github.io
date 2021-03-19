@@ -28,7 +28,7 @@ categories: posts
 
 * <small>Fussell, L. and Moews, B. (2019), "Forging new worlds: High-resolution synthetic galaxies with chained generative adversarial networks", _Monthly Notices of the RAS_, Vol. 485(3), pp. 3203-3214 ([journal](https://doi.org/10.1093/mnras/stz602) | [arXiv](https://arxiv.org/abs/1811.03081))</small>
 
-* <small>Moews, B. et al. (2018), "Lagged correlation-based deep learning for directional trend change prediction in financial time series", _Expert Systems with Applications_, Vol. 120, pp. 197-206 ([journal](https://doi.org/10.1016/j.eswa.2018.11.027) | [arXiv](https://arxiv.org/abs/1811.11287))</small>
+* <small>Moews, B. et al. (2019), "Lagged correlation-based deep learning for directional trend change prediction in financial time series", _Expert Systems with Applications_, Vol. 120, pp. 197-206 ([journal](https://doi.org/10.1016/j.eswa.2018.11.027) | [arXiv](https://arxiv.org/abs/1811.11287))</small>
 
 ## Conference presentations
 
