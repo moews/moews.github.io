@@ -32,7 +32,7 @@ categories: posts
 
 ## Conference presentations
 
-* <small>Talk: "Exploiting geospatial large-scale structure for crime prevention", _22nd International Conference of the International Federation of Operational Research Society (IFORS 2021)_, Seoul, Korea,  August 22-27, 2021</small>
+* <small>Talk: "Exploiting geospatial large-scale structure for crime prevention", _22nd International Conference of the International Federation of OR Societies (IFORS 2021)_, Seoul, Korea,  August 22-27, 2021</small>
 
 * <small>Talk: "Parallelized ridge estimation for predictive patrol routing", _31st Eur. Conference on OR (EURO 2019)_, Athens, Greece, July 11-14, 2021</small>
 
