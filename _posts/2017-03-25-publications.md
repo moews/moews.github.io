@@ -34,7 +34,7 @@ categories: posts
 
 * <small>Talk: "Exploiting geospatial large-scale structure for crime prevention", _22nd International Conference of the International Federation of OR Societies (IFORS 2021)_, Seoul, Korea,  August 22-27, 2021</small>
 
-* <small>Talk: "Parallelized ridge estimation as a predictive tool for Part I crime coverage", _31st Eur. Conference on OR (EURO 2019)_, Athens, Greece, July 11-14, 2021</small>
+* <small>Talk: "Parallelized ridge estimation as a predictive tool for Part I crime coverage in narrow route envelopes", _31st Eur. Conference on OR (EURO 2019)_, Athens, Greece, July 11-14, 2021</small>
 
 * <small>Talk: "Policing route optimization via density-based principal curves", _13th International Conference on Computational and Methodological Statistics (CMStatistics 2020)_, London, UK, December 19-21, 2020</small>
 
