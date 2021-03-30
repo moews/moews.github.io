@@ -32,6 +32,10 @@ categories: posts
 
 ## Conference presentations
 
+* <small>Talk: "Exploiting geospatial large-scale structure for crime prevention", _22nd International Conference of the International Federation of Operational Research Society (IFORS 2021)_, Seoul, Korea,  August 22-27, 2021</small>
+
+* <small>Talk: "Parallelized ridge estimation for predictive patrol routing", _31st Eur. Conference on OR (EURO 2019)_, Athens, Greece, July 11-14, 2021</small>
+
 * <small>Talk: "Policing route optimization via density-based principal curves", _13th International Conference on Computational and Methodological Statistics (CMStatistics 2020)_, London, UK, December 19-21, 2020</small>
 
 * <small>Talk: "Machine learning frameworks to inpaint baryonic properties in N-body simulations", _AI and Benchmarking in Astrophysics_, EPSRC ExCALIBUR Programme (online), December 7-8, 2020</small>
