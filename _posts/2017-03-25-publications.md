@@ -12,13 +12,13 @@ categories: posts
 
 * <small>Moews, B. et al. (2021), "Filaments of crime: Informing policing via thresholded ridge estimation", _Decision Support Systems_, Vol. 144, pp. 113518 ([journal](https://doi.org/10.1016/j.dss.2021.113518) | [arXiv](https://arxiv.org/abs/1907.03206))</small>
 
-* <small>Moews, B. et al. (2020), "Ridges in the Dark Energy Survey for cosmic trough identification", _Monthly Notices of the RAS_, Vol. 500(1), pp. 859-870 ([journal](https://doi.org/10.1093/mnras/staa3204) | [arxiv](https://arxiv.org/abs/2005.08583))</small>
+* <small>Moews, B. et al. (2021), "Ridges in the Dark Energy Survey for cosmic trough identification", _Monthly Notices of the RAS_, Vol. 500(1), pp. 859-870 ([journal](https://doi.org/10.1093/mnras/staa3204) | [arxiv](https://arxiv.org/abs/2005.08583))</small>
 
 * <small>Moews, B. and Zuntz, J., (2020), "Gaussbock: Fast parallel-iterative cosmological parameter estimation with Bayesian nonparametrics", _The Astrophysical Journal_, Vol. 896(2), pp. 98 ([journal](https://doi.org/10.3847%2F1538-4357%2Fab93cb) | [arXiv](https://arxiv.org/abs/1905.09800))</small>
 
 * <small>Moews, B. and Ibikunle, G., (2020), "Predictive intraday correlations in stable and volatile market environments: Evidence from deep learning", _Physica A_, Vol. 547, pp. 124392 ([journal](https://doi.org/10.1016/j.physa.2020.124392) | [arxiv](https://arxiv.org/abs/2002.10385))</small>
 
-* <small>Boucaud, A. et al. (2019), "Photometry of high-redshift blended galaxies using deep learning", _Monthly Notices of the RAS_, Vol. 491(2), pp. 2481-2495 ([journal](https://doi.org/10.1093/mnras/stz3056) | [arXiv](https://arxiv.org/abs/1905.01324))</small>
+* <small>Boucaud, A. et al. (2020), "Photometry of high-redshift blended galaxies using deep learning", _Monthly Notices of the RAS_, Vol. 491(2), pp. 2481-2495 ([journal](https://doi.org/10.1093/mnras/stz3056) | [arXiv](https://arxiv.org/abs/1905.01324))</small>
 
 * <small>Giblin, B. et al. (2019), "On the road to per cent level accuracy II: Calibration of the non-linear matter power spectrum for arbitrary cosmologies", _Monthly Notices of the RAS_, Vol. 490(4), pp. 4826-4840 ([journal](https://doi.org/10.1093/mnras/stz2659) | [arXiv](https://arxiv.org/abs/1906.02742))</small>
 
