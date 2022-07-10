@@ -8,6 +8,8 @@ categories: posts
 
 ## Journal papers and preprints
 
+* <small>Zhang, T. et al. (2022), "Photometric redshift uncertainties in weak gravitational lensing shear analysis: Models and marginalization", _under review at Monthly Notices of the RAS_ ([arxiv](https://arxiv.org/abs/2206.10169))</small>
+
 * <small>Moews, B. et al. (2021), "Hybrid analytic and machine-learned baryonic property insertion into galactic dark matter haloes", _Monthly Notices of the RAS_, Vol. 504(3), pp. 4024-4038 ([journal](https://doi.org/10.1093/mnras/stab1120) | [arxiv](https://arxiv.org/abs/2012.05820))</small>
 
 * <small>Moews, B. et al. (2021), "Filaments of crime: Informing policing via thresholded ridge estimation", _Decision Support Systems_, Vol. 144, pp. 113518 ([journal](https://doi.org/10.1016/j.dss.2021.113518) | [arXiv](https://arxiv.org/abs/1907.03206))</small>
