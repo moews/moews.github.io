@@ -8,6 +8,14 @@ categories: posts
 
 ## Journal papers and preprints
 
+<!--
+* <small>Moews, B. and Gieschen, A. (2022), "SCADDA: Spatio-temporal cluster analysis with density-based distance augmentation and its application to fire carbon emissions", _under review at XXX_ ([arxiv]())</small>
+
+* <small>Moews, B. (2022), "On random number generators and practical market efficiency", _under review at XXX_ ([arxiv]())</small>
+
+* <small>Moews, B. (2022), "Fundamental islands of success", _under review at XXX_ ([arxiv]())</small>
+-->
+
 * <small>Zhang, T. et al. (2022), "Photometric redshift uncertainties in weak gravitational lensing shear analysis: Models and marginalization", _under review at Monthly Notices of the RAS_ ([arxiv](https://arxiv.org/abs/2206.10169))</small>
 
 * <small>Moews, B. et al. (2021), "Hybrid analytic and machine-learned baryonic property insertion into galactic dark matter haloes", _Monthly Notices of the RAS_, Vol. 504(3), pp. 4024-4038 ([journal](https://doi.org/10.1093/mnras/stab1120) | [arxiv](https://arxiv.org/abs/2012.05820))</small>
@@ -32,6 +40,9 @@ categories: posts
 
 * <small>Moews, B. et al. (2019), "Lagged correlation-based deep learning for directional trend change prediction in financial time series", _Expert Systems with Applications_, Vol. 120, pp. 197-206 ([journal](https://doi.org/10.1016/j.eswa.2018.11.027) | [arXiv](https://arxiv.org/abs/1811.11287))</small>
 
+<!--
+REMOVE CONFERENCES
+-->
 ## Conference presentations
 
 * <small>Talk: "Exploiting geospatial large-scale structure for crime prevention", _22nd International Conference of the International Federation of OR Societies (IFORS 2021)_, Seoul, Korea,  August 22-27, 2021</small>
