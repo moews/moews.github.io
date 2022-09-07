@@ -6,6 +6,8 @@ cover: cover.jpg
 categories: posts
 ---
 
+<br>
+
 Potential areas for my research supervision cover the following overarching themes:
 
 * Applied Machine Learning
