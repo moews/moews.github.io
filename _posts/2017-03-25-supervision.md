@@ -6,7 +6,7 @@ cover: cover.jpg
 categories: posts
 ---
 
-Potential areas for research supervision cover the following overarching themes:
+Potential areas for my research supervision cover the following overarching themes:
 
 * Applied Machine Learning
 * Quantitative Criminology
