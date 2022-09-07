@@ -13,7 +13,6 @@ Potential areas for research supervision cover the following overarching themes:
 * Financial Econometrics 
 * Healthcare Analytics 
 * Geospatial Statistics
-<br>
 
 I'm also open to joint supervisions with other schools at the University of Edinburgh.
 
