@@ -14,7 +14,7 @@ Potential areas for my research supervision cover the following overarching them
 * Healthcare Analytics 
 * Geospatial Statistics
 
-<div style="height:1px;font-size:1px;">&nbsp;</div>
+<div style="height:10px;font-size:1px;">&nbsp;</div>
 
 I'm also open to joint supervisions with other schools at the University of Edinburgh.
 
