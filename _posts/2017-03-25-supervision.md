@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Supervision
-date: 2017-03-25 12:00:00
+date: 2017-03-25 11:00:00
 cover: cover.jpg
 categories: posts
 ---
