@@ -7,7 +7,7 @@ categories: home
 ---
 
 <br>
-<img src="/images/gaussbock_examples.png" width="100%">
+<img src="/images/gaussbock_example.png" width="100%">
 
 __Fast parallel-iterative cosmological parameter estimation with Bayesian nonparametrics__
 
