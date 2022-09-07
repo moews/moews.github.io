@@ -14,7 +14,10 @@ Potential areas for research supervision cover the following overarching themes:
 * Healthcare Analytics 
 * Geospatial Statistics
 
+<br>
+
 I'm also open to joint supervisions with other schools at the University of Edinburgh.
 
-Potential PhD and MSc students interested in working within one of these areas, or on a related topic in line with my broader research programme, are welcome to send me an email with their CV and, for PhD students, a research plan. Please also indicate whether you are self-funded or not. 
+Potential PhD and MSc students interested in working within one of these areas, or on a related topic in line with my broader research programme, are welcome to send me an email with their CV and, for PhD students, a research plan. Please also indicate whether you are self-funded or not.
+
 <br>
