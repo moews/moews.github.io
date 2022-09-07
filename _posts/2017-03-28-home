@@ -1,0 +1,27 @@
+<!--
+---
+layout: post
+title: 
+date: 2017-03-28 12:00:00
+cover: cover.jpg
+categories: home
+---
+
+<style type="text/css">
+#img-link, #img-link img{
+   text-decoration: none !important;
+   border:0px !important;
+   outline:none !important;
+   border-width: 0px !important;
+   outline-width:0px !important;
+   border-bottom: none !important;
+}
+</style>
+
+<a id="img-link" href="about">
+    <img src="/images/home_graphic_1.png"  
+    onmouseover="this.src='/images/home_graphic_2.png'" 
+    onmouseout="this.src='/images/home_graphic_1.png'"
+    width="70%">
+</a>
+-->
