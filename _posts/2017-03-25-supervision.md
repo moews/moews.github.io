@@ -10,10 +10,9 @@ categories: posts
 
 Potential areas for my research supervision cover the following overarching themes:
 
-* Applied Machine Learning 
-* Quantitative Criminology 
-* Financial Econometrics 
-* Healthcare Analytics 
+* Applied Machine Learning
+* Computational Finance
+* Healthcare Analytics
 * Spatial Statistics
 
 <div style="height:25px;font-size:1px;">&nbsp;</div>
