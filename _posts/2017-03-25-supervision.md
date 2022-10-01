@@ -17,7 +17,7 @@ Potential areas for my research supervision cover the following overarching them
 
 <div style="height:25px;font-size:1px;">&nbsp;</div>
 
-I'm also open to topics in machine learning, statistics and high-performance computing more generally, as well as to joint supervisions with other schools at the University of Edinburgh.
+I'm also open to joint supervisions with other schools at the University of Edinburgh.
 
 Potential PhD and master's students interested in working within one of these areas, or on a related topic in line with my broader research programme, are welcome to send me an email with their CV and, for PhD students, a research plan. Please also indicate whether you are self-funded or not.
 
