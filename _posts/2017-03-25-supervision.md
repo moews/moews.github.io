@@ -8,7 +8,7 @@ categories: posts
 
 <br>
 
-Potential areas for my research supervision cover the following overarching themes:
+Primary areas for my research supervision include the following overarching themes:
 
 * Applied Machine Learning
 * Computational Finance
