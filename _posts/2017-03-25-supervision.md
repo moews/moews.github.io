@@ -19,6 +19,6 @@ Primary areas for my research supervision include the following overarching them
 
 I'm also open to joint supervisions with other schools at the University of Edinburgh.
 
-Potential PhD and master's students interested in working within one of these areas, or on a related topic in line with my broader research programme, are welcome to send me an email with their CV and, for PhD students, a research plan. Please also indicate whether you are self-funded or not.
+Potential PhD and master’s students interested in working within one of these areas, or on a broadly related topic, are welcome to send me an email with their CV and, for PhD students, a research plan.
 
 <br>
