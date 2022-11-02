@@ -18,7 +18,7 @@ categories: posts
 * <small>Moews, B. (2022), "Fundamental islands of success", _under review at XXX_ ([arxiv]())</small>
 -->
 
-* <small>Zhang, T. et al. (2022), "Photometric redshift uncertainties in weak gravitational lensing shear analysis: Models and marginalization", _under review at Monthly Notices of the RAS_ ([arxiv](https://arxiv.org/abs/2206.10169))</small>
+* <small>Zhang, T. et al. (2022), "Photometric redshift uncertainties in weak gravitational lensing shear analysis: Models and marginalization", _Monthly Notices of the RAS, forthcoming_ ([journal](https://doi.org/10.1093/mnras/stac3090) | [arxiv](https://arxiv.org/abs/2206.10169))</small>
 
 * <small>Moews, B. et al. (2021), "Hybrid analytic and machine-learned baryonic property insertion into galactic dark matter haloes", _Monthly Notices of the RAS_, Vol. 504(3), pp. 4024-4038 ([journal](https://doi.org/10.1093/mnras/stab1120) | [arxiv](https://arxiv.org/abs/2012.05820))</small>
 
