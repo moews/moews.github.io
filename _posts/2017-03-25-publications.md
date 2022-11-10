@@ -13,10 +13,10 @@ categories: posts
 <!--
 * <small>Moews, B. and Gieschen, A. (2022), "SCADDA: Spatio-temporal cluster analysis with density-based distance augmentation and its application to fire carbon emissions", _under review at XXX_ ([arxiv]())</small>
 
-* <small>Moews, B. (2022), "On random number generators and practical market efficiency", _under review at XXX_ ([arxiv]())</small>
-
 * <small>Moews, B. (2022), "Fundamental islands of success", _under review at XXX_ ([arxiv]())</small>
 -->
+
+* <small>Moews, B. (2022), "On random number generators and practical market efficiency", _under review at Journal of the Operational Research Society_</small>
 
 * <small>Zhang, T. et al. (2022), "Photometric redshift uncertainties in weak gravitational lensing shear analysis: Models and marginalization", _Monthly Notices of the RAS, forthcoming_ ([journal](https://doi.org/10.1093/mnras/stac3090) | [arxiv](https://arxiv.org/abs/2206.10169))</small>
 
