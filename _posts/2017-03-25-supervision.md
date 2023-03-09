@@ -10,6 +10,13 @@ categories: posts
 
 Primary areas for my research supervision include the following overarching themes:
 
+<!--
+* Applied machine learning
+* Humanitarian analytics
+* Financial economics
+* Criminal justice
+-->
+
 * Applied machine learning
 * Computational finance
 * Healthcare analytics
