@@ -18,8 +18,8 @@ Primary areas for my research supervision include the following overarching them
 -->
 
 * Applied machine learning
-* Computational finance
-* Healthcare analytics
+* Financial econometrics
+* Geospatial analysis
 * Criminal justice
 
 <div style="height:25px;font-size:1px;">&nbsp;</div>
