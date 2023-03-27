@@ -10,11 +10,7 @@ categories: posts
 
 ## Journal papers and preprints
 
-<!--
-* <small>Moews, B. and Gieschen, A. (2022), "SCADDA: Spatio-temporal cluster analysis with density-based distance augmentation and its application to fire carbon emissions", _under review at XXX_ ([arxiv]())</small>
-
-* <small>Moews, B. (2022), "Fundamental islands of success", _under review at XXX_ ([arxiv]())</small>
--->
+* <small>Dai, Z. et al. (2022), "Physics-informed neural networks in the recreation of hydrodynamic simulations from dark matter", _under review at Monthly Notices of the RAS_ ([arxiv](https://arxiv.org/abs/2303.14090))</small>
 
 * <small>Moews, B. (2022), "On random number generators and practical market efficiency", _under review at Journal of the Operational Research Society_</small>
 
