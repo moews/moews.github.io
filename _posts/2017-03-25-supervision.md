@@ -36,7 +36,7 @@ Primary areas for my research supervision include the following overarching them
 * Financial technology and econometrics
 * Geospatial and time series analysis
 
-(Technically also cosmology, galaxy evolution and astrostatistics, although that only applies to external students from other schools.)
+(Technically also cosmology and astrostatistics, for external students from other schools.)
 
 <div style="height:25px;font-size:1px;">&nbsp;</div>
 
