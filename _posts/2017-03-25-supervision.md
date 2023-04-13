@@ -8,7 +8,7 @@ categories: posts
 
 <br>
 
-Primary areas for my research supervision include the following overarching themes:
+Primary areas for potential research supervision include the following overarching themes:
 
 <!--
 * Applied machine learning
