@@ -24,10 +24,17 @@ Primary areas for my research supervision include the following overarching them
 * Criminal justice
 -->
 
+<!--
 * Bayesian inference and applied machine learning
 * Geospatial statistics and time series analysis
 * Financial technology and econometrics
 * Criminology and criminal justice
+-->
+
+* Pure and applied machine and deep learning
+* Bayesian inference and generative models
+* Financial technology and econometrics
+* Geospatial and time series analysis
 
 <div style="height:25px;font-size:1px;">&nbsp;</div>
 
