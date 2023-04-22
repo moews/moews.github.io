@@ -43,44 +43,44 @@ REMOVE CONFERENCES
 -->
 ## Conference presentations
 
-* <small>Talk: "Time-varying information efficiency and the impact of small inefficient market subsets ", _2nd Edinburgh Conference on the Economics of Financial Technology (EFT 2023)_, Edinburgh, UK, June 21-23, 2023
+* <small>"Time-varying information efficiency and the impact of small inefficient market subsets ", _2nd Edinburgh Conference on the Economics of Financial Technology (EFT 2023)_, Edinburgh, UK, June 21-23, 2023
 
-* <small>Poster: "Public safety planning and health policy impacts on crime hot spot composition", _1st Digital Footprints Conference of the Alan Turing Institute SIG on Novel Data Linkages for Health and Wellbeing_, Bristol, UK, May 11, 2023
+* <small>"Public safety planning and health policy impacts on crime hot spot composition", _1st Digital Footprints Conference of the Alan Turing Institute SIG on Novel Data Linkages for Health and Wellbeing_, Bristol, UK, May 11, 2023 <!--Poster-->
 
-* <small>Talk: "Exploiting geospatial large-scale structure for crime prevention", _22nd International Conference of the International Federation of OR Societies (IFORS 2021)_, Seoul, Korea, August 22-27, 2021</small>
+* <small>"Exploiting geospatial large-scale structure for crime prevention", _22nd International Conference of the International Federation of OR Societies (IFORS 2021)_, Seoul, Korea, August 22-27, 2021</small>
 
-* <small>Talk: "Parallelized ridge estimation as a predictive tool for Part I crime coverage in narrow route envelopes", _31st Eur. Conference on OR (EURO 2021)_, Athens, Greece, July 11-14, 2021</small>
+* <small>"Parallelized ridge estimation as a predictive tool for Part I crime coverage in narrow route envelopes", _31st Eur. Conference on OR (EURO 2021)_, Athens, Greece, July 11-14, 2021</small>
 
-* <small>Talk: "Policing route optimization via density-based principal curves", _13th International Conference on Computational and Methodological Statistics (CMStatistics 2020)_, London, UK, December 19-21, 2020</small>
+* <small>"Policing route optimization via density-based principal curves", _13th International Conference on Computational and Methodological Statistics (CMStatistics 2020)_, London, UK, December 19-21, 2020</small>
 
-* <small>Talk: "Machine learning frameworks to inpaint baryonic properties in N-body simulations", _AI and Benchmarking in Astrophysics_, EPSRC ExCALIBUR Programme (online), December 7-8, 2020</small>
+* <small>"Machine learning frameworks to inpaint baryonic properties in N-body simulations", _AI and Benchmarking in Astrophysics_, EPSRC ExCALIBUR Programme (online), December 7-8, 2020</small>
 
-* <small>Talk: "Ridges across fields: From criminology to cosmology", _Benchmarking for AI for Science at Exascale (BASE)_, EPSRC ExCALIBUR Programme (online), September-October 28-2, 2020</small>
+* <small>"Ridges across fields: From criminology to cosmology", _Benchmarking for AI for Science at Exascale (BASE)_, EPSRC ExCALIBUR Programme (online), September-October 28-2, 2020</small>
 
-* <small>Talk: "Deep-learning for predictive correlations in stable and volatile markets", _1st Edinburgh Conference on the Economics of Financial Technology (EFT 2020)_, Edinburgh, UK, postponed due to COVID‑19</small>
+* <small>"Deep-learning for predictive correlations in stable and volatile markets", _1st Edinburgh Conference on the Economics of Financial Technology (EFT 2020)_, Edinburgh, UK, postponed due to COVID‑19</small>
 
-* <small>Talk: "Ridge-estimating DES", _16th Durham-Edinburgh eXtragalactic Workshop: 2020 Vision - Progress and Tensions in Astronomy (DEX-XVI)_, Durham, UK, January 6-7, 2020</small>
+* <small>"Ridge-estimating DES", _16th Durham-Edinburgh eXtragalactic Workshop: 2020 Vision - Progress and Tensions in Astronomy (DEX-XVI)_, Durham, UK, January 6-7, 2020</small>
 
-* <small>Talk: "How random are intraday stock prices? Evidence from deep learning", _3rd Eur. Capital Markets Cooperative Research Center Workshop_, Dublin, Ireland, July 5, 2019</small>
+* <small>"How random are intraday stock prices? Evidence from deep learning", _3rd Eur. Capital Markets Cooperative Research Center Workshop_, Dublin, Ireland, July 5, 2019</small>
 
-* <small>Talk: "Deep-learned baryons: Hybrid emulators for high-speed cosmological simulations", _National Astronomy Meeting of the Royal Astronomical Society (NAM2019)_, Lancaster, UK, June-July 30-4, 2019</small>
+* <small>"Deep-learned baryons: Hybrid emulators for high-speed cosmological simulations", _National Astronomy Meeting of the Royal Astronomical Society (NAM2019)_, Lancaster, UK, June-July 30-4, 2019</small>
 
-* <small>Talk: "Deep learning for portfolio risk and financial economics: Investigating trend change predictability through lagged correlations", _30th Eur. Conference on OR (EURO 2019)_, Dublin, Ireland, June 23-26, 2019</small>
+* <small>"Deep learning for portfolio risk and financial economics: Investigating trend change predictability through lagged correlations", _30th Eur. Conference on OR (EURO 2019)_, Dublin, Ireland, June 23-26, 2019</small>
 
-* <small>Talk: "Synthetic datasets for modern cosmology: Creating galaxies with multi-stage GANs", _Artificial Intelligence Methods in Cosmology (AICosmo2019)_, Ascona, Switzerland, June 9-12, 2019</small>
+* <small>"Synthetic datasets for modern cosmology: Creating galaxies with multi-stage GANs", _Artificial Intelligence Methods in Cosmology (AICosmo2019)_, Ascona, Switzerland, June 9-12, 2019</small>
 
-* <small>Talk: "What we might miss: Stress-testing measurements of dark energy", _5th Joint Meeting of the German Consortium in Statistics (DAGStat 2019)_, Munich, Germany, March 18-22, 2019</small>
+* <small>"What we might miss: Stress-testing measurements of dark energy", _5th Joint Meeting of the German Consortium in Statistics (DAGStat 2019)_, Munich, Germany, March 18-22, 2019</small>
 
-* <small>Talk: "Cosmology and beyond: Solutions for high-dimensional parameter estimation", _The Data Lab: Data Innovation in Scotland (DataTech19)_, Edinburgh, UK, March 14, 2019</small>
+* <small>"Cosmology and beyond: Solutions for high-dimensional parameter estimation", _The Data Lab: Data Innovation in Scotland (DataTech19)_, Edinburgh, UK, March 14, 2019</small>
 
-* <small>Talk: "Synthetic galaxies with chained deep learning models", _15th Durham-Edinburgh eXtragalactic Workshop: Recent Innovations in Theory and Observations (DEX-XV)_, Edinburgh, UK, January 7-8, 2019</small>
+* <small>"Synthetic galaxies with chained deep learning models", _15th Durham-Edinburgh eXtragalactic Workshop: Recent Innovations in Theory and Observations (DEX-XV)_, Edinburgh, UK, January 7-8, 2019</small>
 
-* <small>Talk: "Massively parallel iterative Bayesian nonparametrics for cosmological parameter estimation", _Royal Statistical Society 2018 International Conference (RSS 2018)_, Cardiff, UK, September 3-6, 2018</small>
+* <small>"Massively parallel iterative Bayesian nonparametrics for cosmological parameter estimation", _Royal Statistical Society 2018 International Conference (RSS 2018)_, Cardiff, UK, September 3-6, 2018</small>
 
-* <small>Talk: "High-dimensional posterior sampling with expensive likelihoods", _International Society for Bayesian Analysis 2018 World Meeting (ISBA 2018)_, Edinburgh, UK, June 24-29, 2018</small>
+* <small>"High-dimensional posterior sampling with expensive likelihoods", _International Society for Bayesian Analysis 2018 World Meeting (ISBA 2018)_, Edinburgh, UK, June 24-29, 2018</small>
 
-* <small>Poster: "Gaussbock: Fast parallel-iterative cosmological parameter estimation", _Statistical Challenges in 21st Century Cosmology (Cosmo21)_, Valencia, Spain, May 22-25, 2018</small>
+* <small>"Gaussbock: Fast parallel-iterative cosmological parameter estimation", _Statistical Challenges in 21st Century Cosmology (Cosmo21)_, Valencia, Spain, May 22-25, 2018</small> <!--Poster-->
 
-* <small>Talk: "Non-parametric Bayesian methods for cosmological parameter estimation", _Statistical Challenges for Large-Scale Structure in the Era of LSST (SCLSS)_, Oxford, UK, April 18-20, 2018</small>
+* <small>"Non-parametric Bayesian methods for cosmological parameter estimation", _Statistical Challenges for Large-Scale Structure in the Era of LSST (SCLSS)_, Oxford, UK, April 18-20, 2018</small>
 
 <br>
