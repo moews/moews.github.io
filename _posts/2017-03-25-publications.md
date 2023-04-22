@@ -41,6 +41,9 @@ categories: posts
 <!--
 REMOVE CONFERENCES
 -->
+
+<div style="height:25px;font-size:1px;">&nbsp;</div>
+
 ## Conference presentations
 
 * <small>"Time-varying information efficiency and the impact of small inefficient market subsets ", _2nd Edinburgh Conference on the Economics of Financial Technology (EFT 2023)_, Edinburgh, UK, June 21-23, 2023
