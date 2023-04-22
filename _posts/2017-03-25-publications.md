@@ -43,11 +43,9 @@ REMOVE CONFERENCES
 -->
 ## Conference presentations
 
-<!--
 * <small>Talk: "Time-varying information efficiency and the impact of small inefficient market subsets ", _2nd Edinburgh Conference on the Economics of Financial Technology (EFT 2023)_, Edinburgh, UK, June 21-23, 2023
 
-* <small>Poster: "", _1st Digital Footprints Conference of the Alan Turing Institute SIG on Novel Data Linkages for Health and Wellbeing_, Bristol, UK, May 11, 2023
--->
+* <small>Poster: "Public safety planning and health policy impacts on crime hot spot composition", _1st Digital Footprints Conference of the Alan Turing Institute SIG on Novel Data Linkages for Health and Wellbeing_, Bristol, UK, May 11, 2023
 
 * <small>Talk: "Exploiting geospatial large-scale structure for crime prevention", _22nd International Conference of the International Federation of OR Societies (IFORS 2021)_, Seoul, Korea, August 22-27, 2021</small>
 
