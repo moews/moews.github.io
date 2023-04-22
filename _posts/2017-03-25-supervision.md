@@ -35,11 +35,9 @@ Primary areas for potential research supervision include the following overarchi
 * Bayesian inference and generative models
 * Financial technology and econometrics
 * Geospatial and time series analysis
-* Aastrostatistics and cosmology
+* Astrostatistics and cosmology
 
 <div style="height:25px;font-size:1px;">&nbsp;</div>
-
-(Technically also cosmology and astrostatistics, for external students from other schools.)
 
 Potential PhD and master's students interested in working within one of these areas, or on a broadly related topic in line with my research profile, are welcome to send me an email with their CV and a research proposal. I'm also open to the supervision of students with a background in different numerate disciplines such as physics and computer science who are looking to change fields, as well as joint supervisions with other schools at the University of Edinburgh.
 <br>
