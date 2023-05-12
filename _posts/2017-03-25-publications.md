@@ -46,9 +46,11 @@ REMOVE CONFERENCES
 
 ## Conference presentations
 
-* <small>"Time-varying information efficiency and the impact of small inefficient market subsets ", _2nd Edinburgh Conference on the Economics of Financial Technology (EFT 2023)_, Edinburgh, UK, June 21-23, 2023
+* <small>"Physics-informed deep learning with distributional loss for complete hydrodynamic simulations", _National Astronomy Meeting of the Royal Astronomical Society (NAM2023)_, Cardiff, UK, July 3-7, 2023</small>
 
-* <small>"Public safety planning and health policy impacts on crime hot spot composition", _1st Digital Footprints Conference of the Alan Turing Institute_, Bristol, UK, May 11, 2023 <!--Poster-->
+* <small>"Time-varying information efficiency and the impact of small inefficient market subsets", _2nd Edinburgh Conference on the Economics of Financial Technology (EFT 2023)_, Edinburgh, UK, June 21-23, 2023</small>
+
+* <small>"Public safety planning and health policy impacts on crime hot spot composition", _1st Digital Footprints Conference of the Alan Turing Institute_, Bristol, UK, May 11, 2023</small> <!--Poster-->
 
 * <small>"Exploiting geospatial large-scale structure for crime prevention", _22nd International Conference of the International Federation of OR Societies (IFORS 2021)_, Seoul, Korea, August 22-27, 2021</small>
 
