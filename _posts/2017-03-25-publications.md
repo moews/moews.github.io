@@ -46,6 +46,8 @@ REMOVE CONFERENCES
 
 ## Conference presentations
 
+* <small>"Spatio-temporal crime analysis and the impact of COVID-19 on hot spots", __Royal Statistical Society 2023 International Conference (RSS 2023)_, Harrogate, UK, September 4-7, 2023</small>
+
 * <small>"Physics-informed deep learning with distributional loss for complete hydrodynamic simulations", _National Astronomy Meeting of the Royal Astronomical Society (NAM2023)_, Cardiff, UK, July 3-7, 2023</small>
 
 * <small>"Time-varying information efficiency and the impact of small inefficient market subsets", _2nd Edinburgh Conference on the Economics of Financial Technology (EFT 2023)_, Edinburgh, UK, June 21-23, 2023</small>
