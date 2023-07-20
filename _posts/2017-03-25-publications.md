@@ -12,7 +12,7 @@ categories: posts
 
 * <small>Dai, Z. et al. (2023), "Physics-informed neural networks in the recreation of hydrodynamic simulations from dark matter", _under review at Monthly Notices of the RAS_ ([arxiv](https://arxiv.org/abs/2303.14090))</small>
 
-* <small>Moews, B. (2022), "On random number generators and practical market efficiency", _accepted for publication in Journal of the Operational Research Society_ ([arXiv](https://arxiv.org/abs/2305.17419))</small>
+* <small>Moews, B. (2022), "On random number generators and practical market efficiency", _Journal of the Operational Research Society_, forthcoming ([journal](https://www.tandfonline.com/doi/full/10.1080/01605682.2023.2219292) | [arXiv](https://arxiv.org/abs/2305.17419))</small>
 
 * <small>Zhang, T. et al. (2022), "Photometric redshift uncertainties in weak gravitational lensing shear analysis: Models and marginalization", _Monthly Notices of the RAS_, Vol. 518(1), pp. 709-723 ([journal](https://doi.org/10.1093/mnras/stac3090) | [arxiv](https://arxiv.org/abs/2206.10169))</small>
 
