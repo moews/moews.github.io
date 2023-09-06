@@ -34,7 +34,7 @@ Primary areas for potential research supervision include the following overarchi
 * Pure and applied machine and deep learning
 * Bayesian inference and generative models
 * Financial technology and econometrics
-* Geospatial and time series analysis
+* Spatio-temporal analysis and crime
 * Cosmology and galaxy evolution
 
 <div style="height:25px;font-size:1px;">&nbsp;</div>
