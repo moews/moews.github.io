@@ -10,7 +10,7 @@ categories: posts
 
 ## Journal papers and preprints
 
-* <small>Dai, Z. et al. (2023), "Physics-informed neural networks in the recreation of hydrodynamic simulations from dark matter", _under review at Monthly Notices of the RAS_ ([arxiv](https://arxiv.org/abs/2303.14090))</small>
+* <small>Dai, Z. et al. (2023), "Physics-informed neural networks in the recreation of hydrodynamic simulations from dark matter", _Monthly Notices of the RAS_, forthcoming ([journal](https://doi.org/10.1093/mnras/stad3394) | [arxiv](https://arxiv.org/abs/2303.14090))</small>
 
 * <small>Moews, B. (2022), "On random number generators and practical market efficiency", _Journal of the Operational Research Society_, forthcoming ([journal](https://doi.org/10.1080/01605682.2023.2219292) | [arXiv](https://arxiv.org/abs/2305.17419))</small>
 
