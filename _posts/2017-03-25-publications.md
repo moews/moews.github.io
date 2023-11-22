@@ -12,7 +12,7 @@ categories: posts
 
 * <small>Moews, B. and Gieschen, A. (2023), "SCADDA: Spatio-temporal cluster analysis with density-based distance augmentation and its application to fire carbon emissions", _submitted to CSDA_ ([arxiv](https://arxiv.org/abs/2311.04290))</small>
 
-* <small>Dai, Z. et al. (2023), "Physics-informed neural networks in the recreation of hydrodynamic simulations from dark matter", _Monthly Notices of the RAS_, forthcoming ([journal](https://doi.org/10.1093/mnras/stad3394) | [arxiv](https://arxiv.org/abs/2303.14090))</small>
+* <small>Dai, Z. et al. (2023), "Physics-informed neural networks in the recreation of hydrodynamic simulations from dark matter", _Monthly Notices of the RAS_, Vol. 527(2), pp. 3381-3394 ([journal](https://doi.org/10.1093/mnras/stad3394) | [arxiv](https://arxiv.org/abs/2303.14090))</small>
 
 * <small>Moews, B. (2023), "On random number generators and practical market efficiency", _Journal of the Operational Research Society_, forthcoming ([journal](https://doi.org/10.1080/01605682.2023.2219292) | [arXiv](https://arxiv.org/abs/2305.17419))</small>
 
