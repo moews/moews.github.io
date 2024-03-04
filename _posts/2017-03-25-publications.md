@@ -48,7 +48,7 @@ REMOVE CONFERENCES
 
 ## Conference presentations
 
-* <small>"Spatio-temporal analysis of variable-density clusters in hot spot policing", __33rd Eur. Conference on OR (EURO 2024)__, Copenhagen, Denmark, June-July 30-3, 2024</small>
+* <small>"Spatio-temporal analysis of variable-density clusters in hot spot policing", _33rd Eur. Conference on OR (EURO 2024)_, Copenhagen, Denmark, June-July 30-3, 2024</small>
 
 * <small>"Spatio-temporal crime analysis and the impact of COVID-19 on hot spots", _Royal Statistical Society 2023 International Conference (RSS 2023)_, Harrogate, UK, September 4-7, 2023</small>
 
