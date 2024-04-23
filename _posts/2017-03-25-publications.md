@@ -14,13 +14,13 @@ categories: posts
 * <small>Ibikunle, et al. (2024), "Can machine learning unlock new insights into high-frequency trading?", _submitted to Review of Financial Studies_ ([arxiv]())</small>
 -->
 
+* <small>Moews, B. (2024), "On random number generators and practical market efficiency", _Journal of the Operational Research Society_, Vol. 75(5), pp. 907-920 ([journal](https://doi.org/10.1080/01605682.2023.2219292) | [arXiv](https://arxiv.org/abs/2305.17419))</small>
+
+* <small>Dai, Z. et al. (2024), "Physics-informed neural networks in the recreation of hydrodynamic simulations from dark matter", _Monthly Notices of the RAS_, Vol. 527(2), pp. 3381-3394 ([journal](https://doi.org/10.1093/mnras/stad3394) | [arxiv](https://arxiv.org/abs/2303.14090))</small>
+
 * <small>Moews, B. and Gieschen, A. (2023), "SCADDA: Spatio-temporal cluster analysis with density-based distance augmentation and its application to fire carbon emissions", _submitted to CSDA_ ([arxiv](https://arxiv.org/abs/2311.04290))</small>
 
-* <small>Dai, Z. et al. (2023), "Physics-informed neural networks in the recreation of hydrodynamic simulations from dark matter", _Monthly Notices of the RAS_, Vol. 527(2), pp. 3381-3394 ([journal](https://doi.org/10.1093/mnras/stad3394) | [arxiv](https://arxiv.org/abs/2303.14090))</small>
-
-* <small>Moews, B. (2023), "On random number generators and practical market efficiency", _Journal of the Operational Research Society_, forthcoming ([journal](https://doi.org/10.1080/01605682.2023.2219292) | [arXiv](https://arxiv.org/abs/2305.17419))</small>
-
-* <small>Zhang, T. et al. (2022), "Photometric redshift uncertainties in weak gravitational lensing shear analysis: Models and marginalization", _Monthly Notices of the RAS_, Vol. 518(1), pp. 709-723 ([journal](https://doi.org/10.1093/mnras/stac3090) | [arxiv](https://arxiv.org/abs/2206.10169))</small>
+* <small>Zhang, T. et al. (2023), "Photometric redshift uncertainties in weak gravitational lensing shear analysis: Models and marginalization", _Monthly Notices of the RAS_, Vol. 518(1), pp. 709-723 ([journal](https://doi.org/10.1093/mnras/stac3090) | [arxiv](https://arxiv.org/abs/2206.10169))</small>
 
 * <small>Moews, B. et al. (2021), "Hybrid analytic and machine-learned baryonic property insertion into galactic dark matter haloes", _Monthly Notices of the RAS_, Vol. 504(3), pp. 4024-4038 ([journal](https://doi.org/10.1093/mnras/stab1120) | [arxiv](https://arxiv.org/abs/2012.05820))</small>
 
