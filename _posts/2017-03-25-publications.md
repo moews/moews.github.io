@@ -20,7 +20,7 @@ categories: posts
 
 * <small>Dai, Z. et al. (2024), "Physics-informed neural networks in the recreation of hydrodynamic simulations from dark matter", _Monthly Notices of the RAS_, Vol. 527(2), pp. 3381-3394 ([journal](https://doi.org/10.1093/mnras/stad3394) | [arxiv](https://arxiv.org/abs/2303.14090))</small>
 
-* <small>Moews, B. and Gieschen, A. (2023), "SCADDA: Spatio-temporal cluster analysis with density-based distance augmentation and its application to fire carbon emissions", _submitted to CSDA_ ([arxiv](https://arxiv.org/abs/2311.04290))</small>
+* <small>Moews, B. and Gieschen, A. (2023), "SCADDA: Spatio-temporal cluster analysis with density-based distance augmentation and its application to fire carbon emissions", _working paper_ ([arxiv](https://arxiv.org/abs/2311.04290))</small>
 
 * <small>Zhang, T. et al. (2023), "Photometric redshift uncertainties in weak gravitational lensing shear analysis: Models and marginalization", _Monthly Notices of the RAS_, Vol. 518(1), pp. 709-723 ([journal](https://doi.org/10.1093/mnras/stac3090) | [arxiv](https://arxiv.org/abs/2206.10169))</small>
 
