@@ -10,9 +10,7 @@ categories: posts
 
 ## Journal papers and preprints
 
-<!--
-* <small>Ibikunle, G. et al. (2024), "Can machine learning unlock new insights into high-frequency trading?", _working paper_ ([arxiv]())</small>
--->
+* <small>Ibikunle, G. et al. (2024), "Can machine learning unlock new insights into high-frequency trading?", _working paper_ ([arxiv](https://arxiv.org/abs/2405.08101))</small>
 
 * <small>Pessi, P. J. et al. (2024), "ELEPHANT: Extragalactic alert pipeline for hostless astronomical transients", _submitted to Astronomy & Astrophysics_ ([arXiv](https://arxiv.org/abs/2404.18165))</small>
 
