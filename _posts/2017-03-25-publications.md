@@ -56,9 +56,9 @@ categories: posts
 
 * <small>Pessi, P. et al. (2024), "Hostless candidates detected by ELEPHANT", _Transient Name Server AstroNote_, 2024-153 ([NASA ADS](https://ui.adsabs.harvard.edu/abs/2024TNSAN.153....1P/abstract) | [TNS](https://www.wis-tns.org/astronotes/astronote/2024-153))</small>
 
-* <small>Moews, B. et al. (2020), "VizieR Online Data Catalog: Ridges in the Dark Energy Survey", _VizieR Online Data Catalog_ ([NASA ADS](https://ui.adsabs.harvard.edu/abs/2020yCat..75000859M/abstract) | [VizieR](https://ui.adsabs.harvard.edu/abs/2020yCat..75000859M/abstract))</small>
+* <small>Moews, B. et al. (2020), "VizieR Online Data Catalog: Ridges in the Dark Energy Survey", _VizieR Online Data Catalog_ ([NASA ADS](https://ui.adsabs.harvard.edu/abs/2020yCat..75000859M/abstract) | [VizieR](https://cdsarc.cds.unistra.fr/viz-bin/cat/J/MNRAS/500/859))</small>
 
-* <small>Cantat-Gaudin, T. et al. (2019), "VizieR Online Data Catalog: New open clusters in Perseus direction", _VizieR Online Data Catalog_ ([NASA ADS](https://ui.adsabs.harvard.edu/abs/2019yCat..36240126C/abstract) | [VizieR](https://doi.org/10.26093/cds/vizier.36240126))</small>
+* <small>Cantat-Gaudin, T. et al. (2019), "VizieR Online Data Catalog: New open clusters in Perseus direction", _VizieR Online Data Catalog_ ([NASA ADS](https://ui.adsabs.harvard.edu/abs/2019yCat..36240126C/abstract) | [VizieR](https://cdsarc.cds.unistra.fr/viz-bin/cat/J/A+A/624/A126))</small>
 
 <!--
 REMOVE CONFERENCES
