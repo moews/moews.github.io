@@ -49,15 +49,15 @@ categories: posts
 ## Research data products
 
 
-Nakazono, L. et al. (2024), "Hostless candidates detected by ELEPHANT", _Transient Name Server AstroNote_, Vol. 207 ([NASA ADS](https://ui.adsabs.harvard.edu/abs/2024TNSAN.207....1N/abstract))
+* <small>Nakazono, L. et al. (2024), "Hostless candidates detected by ELEPHANT", _Transient Name Server AstroNote_, Vol. 207 ([NASA ADS](https://ui.adsabs.harvard.edu/abs/2024TNSAN.207....1N/abstract))</small>
 
-Durgesh, R. et al. (2024), "Hostless candidates detected by ELEPHANT", _Transient Name Server AstroNote_, Vol. 199 ([NASA ADS](https://ui.adsabs.harvard.edu/abs/2024TNSAN.199....1D/abstract))
+* <small>Durgesh, R. et al. (2024), "Hostless candidates detected by ELEPHANT", _Transient Name Server AstroNote_, Vol. 199 ([NASA ADS](https://ui.adsabs.harvard.edu/abs/2024TNSAN.199....1D/abstract))</small>
 
-Hayes, E. E. et al. (2024), "Hostless candidates detected by ELEPHANT", _Transient Name Server AstroNote_, Vol. 191 ([NASA ADS](https://ui.adsabs.harvard.edu/abs/2024TNSAN.191....1H/abstract))
+* <small>Hayes, E. E. et al. (2024), "Hostless candidates detected by ELEPHANT", _Transient Name Server AstroNote_, Vol. 191 ([NASA ADS](https://ui.adsabs.harvard.edu/abs/2024TNSAN.191....1H/abstract))</small>
 
-Pessi, P. et al. (2024), "Hostless candidates detected by ELEPHANT", _Transient Name Server AstroNote_, Vol. 153 ([NASA ADS](https://ui.adsabs.harvard.edu/abs/2024TNSAN.153....1P/abstract))
+* <small>Pessi, P. et al. (2024), "Hostless candidates detected by ELEPHANT", _Transient Name Server AstroNote_, Vol. 153 ([NASA ADS](https://ui.adsabs.harvard.edu/abs/2024TNSAN.153....1P/abstract))</small>
 
-Cantat-Gaudin, T. et al. (2019), "VizieR Online Data Catalog: New open clusters in Perseus direction", VizieR Online Data Catalog ([NASA ADS](https://ui.adsabs.harvard.edu/abs/2019yCat..36240126C/abstract) | [VizieR](https://doi.org/10.26093/cds/vizier.36240126))
+* <small>Cantat-Gaudin, T. et al. (2019), "VizieR Online Data Catalog: New open clusters in Perseus direction", VizieR Online Data Catalog ([NASA ADS](https://ui.adsabs.harvard.edu/abs/2019yCat..36240126C/abstract) | [VizieR](https://doi.org/10.26093/cds/vizier.36240126))</small>
 
 * <small>Moews, B. et al. (2020), "VizieR Online Data Catalog: Ridges in the Dark Energy Survey", VizieR Online Data Catalog ([NASA ADS](https://ui.adsabs.harvard.edu/abs/2020yCat..75000859M/abstract) | [VizieR](https://ui.adsabs.harvard.edu/abs/2020yCat..75000859M/abstract)</small>
 
