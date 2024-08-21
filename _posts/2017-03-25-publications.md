@@ -44,6 +44,23 @@ categories: posts
 
 * <small>Moews, B. et al. (2019), "Lagged correlation-based deep learning for directional trend change prediction in financial time series", _Expert Systems with Applications_, Vol. 120, pp. 197-206 ([journal](https://doi.org/10.1016/j.eswa.2018.11.027) | [arXiv](https://arxiv.org/abs/1811.11287))</small>
 
+<div style="height:25px;font-size:1px;">&nbsp;</div>
+
+## Research data products
+
+
+Nakazono, L. et al. (2024), "Hostless candidates detected by ELEPHANT", _Transient Name Server AstroNote_, Vol. 207 ([NASA ADS](https://ui.adsabs.harvard.edu/abs/2024TNSAN.207....1N/abstract))
+
+Durgesh, R. et al. (2024), "Hostless candidates detected by ELEPHANT", _Transient Name Server AstroNote_, Vol. 199 ([NASA ADS](https://ui.adsabs.harvard.edu/abs/2024TNSAN.199....1D/abstract))
+
+Hayes, E. E. et al. (2024), "Hostless candidates detected by ELEPHANT", _Transient Name Server AstroNote_, Vol. 191 ([NASA ADS](https://ui.adsabs.harvard.edu/abs/2024TNSAN.191....1H/abstract))
+
+Pessi, P. et al. (2024), "Hostless candidates detected by ELEPHANT", _Transient Name Server AstroNote_, Vol. 153 ([NASA ADS](https://ui.adsabs.harvard.edu/abs/2024TNSAN.153....1P/abstract))
+
+Cantat-Gaudin, T. et al. (2019), "VizieR Online Data Catalog: New open clusters in Perseus direction", VizieR Online Data Catalog ([NASA ADS](https://ui.adsabs.harvard.edu/abs/2019yCat..36240126C/abstract) | [VizieR](https://doi.org/10.26093/cds/vizier.36240126))
+
+* <small>Moews, B. et al. (2020), "VizieR Online Data Catalog: Ridges in the Dark Energy Survey", VizieR Online Data Catalog ([NASA ADS](https://ui.adsabs.harvard.edu/abs/2020yCat..75000859M/abstract) | [VizieR](https://ui.adsabs.harvard.edu/abs/2020yCat..75000859M/abstract)</small>
+
 <!--
 REMOVE CONFERENCES
 -->
