@@ -12,7 +12,7 @@ categories: posts
 
 * <small>Ibikunle, G. et al. (2024), "Can machine learning unlock new insights into high-frequency trading?", _working paper_ ([arxiv](https://arxiv.org/abs/2405.08101))</small>
 
-* <small>Pessi, P. J. et al. (2024), "ELEPHANT: Extragalactic alert pipeline for hostless astronomical transients", _submitted to Astronomy & Astrophysics_ ([arXiv](https://arxiv.org/abs/2404.18165))</small>
+* <small>Pessi, P. J. et al. (2024), "ELEPHANT: Extragalactic alert pipeline for hostless astronomical transients", _accepted for publication in Astronomy & Astrophysics_ ([arXiv](https://arxiv.org/abs/2404.18165))</small>
 
 * <small>Moews, B. (2024), "On random number generators and practical market efficiency", _Journal of the Operational Research Society_, Vol. 75(5), pp. 907-920 ([journal](https://doi.org/10.1080/01605682.2023.2219292) | [arXiv](https://arxiv.org/abs/2305.17419))</small>
 
