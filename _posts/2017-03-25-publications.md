@@ -48,12 +48,6 @@ categories: posts
 
 ## Research data products
 
-* <small>Nakazono, L. et al. (2024), "Hostless candidates detected by ELEPHANT", _Transient Name Server AstroNote_, 2024-207 ([NASA ADS](https://ui.adsabs.harvard.edu/abs/2024TNSAN.207....1N/abstract) | [TNS](https://www.wis-tns.org/astronotes/astronote/2024-207))</small>
-
-* <small>Durgesh, R. et al. (2024), "Hostless candidates detected by ELEPHANT", _Transient Name Server AstroNote_, 2024-199 ([NASA ADS](https://ui.adsabs.harvard.edu/abs/2024TNSAN.199....1D/abstract) | [TNS](https://www.wis-tns.org/astronotes/astronote/2024-199))</small>
-
-* <small>Hayes, E. E. et al. (2024), "Hostless candidates detected by ELEPHANT", _Transient Name Server AstroNote_, 2024-191 ([NASA ADS](https://ui.adsabs.harvard.edu/abs/2024TNSAN.191....1H/abstract) | [TNS](https://www.wis-tns.org/astronotes/astronote/2024-191))</small>
-
 * <small>Cosmostatistics Initiative (2024), "Hostless candidates detected by ELEPHANT", _Transient Name Server AstroNote_, 2024-153 onwards ([NASA ADS](https://ui.adsabs.harvard.edu/search/q=abs%3A%22Hostless%20candidates%20detected%20by%20ELEPHANT%22&sort=date%20desc%2C%20bibcode%20desc&p_=0) | [TNS](https://www.wis-tns.org/astronotes/astronote/2024-153))</small>
 
 * <small>Moews, B. et al. (2020), "VizieR Online Data Catalog: Ridges in the Dark Energy Survey", _VizieR Online Data Catalog_ ([NASA ADS](https://ui.adsabs.harvard.edu/abs/2020yCat..75000859M/abstract) | [VizieR](https://cdsarc.cds.unistra.fr/viz-bin/cat/J/MNRAS/500/859))</small>
