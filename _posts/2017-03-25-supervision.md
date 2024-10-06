@@ -50,7 +50,7 @@ Primary areas for potential research supervision include the following overarchi
 * Financial technology and econometric analysis
 * Spatio-temporal statistics for societal challenges
 * Deep learning frameworks and synthetic datasets
-* Astrostatistics in co-supervision with other schools
+* Astronomy topics in collaboration with other schools
 
 <div style="height:25px;font-size:1px;">&nbsp;</div>
 
