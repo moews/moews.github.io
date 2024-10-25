@@ -48,7 +48,7 @@ categories: posts
 
 ## Research data products
 
-* <small> Pessi, P. J. et al. (2024), "COIN/FINK transient discovery report" (multiple), _Transient Name Server Transient Report_, 2024-2379 onwards ([NASA ADS](https://ui.adsabs.harvard.edu/search/q=abs%3A%22Fink%20Transient%20Discovery%20Report%22&sort=date%20desc%2C%20bibcode%20desc&p_=0) | [TNS](https://www.wis-tns.org/ads/TNSTR-2024-2379))</small>
+* <small> Pessi, P. J. et al. (2024), "COIN/Fink transient discovery report" (multiple), _Transient Name Server Transient Report_, 2024-2379 onwards ([NASA ADS](https://ui.adsabs.harvard.edu/search/q=abs%3A%22Fink%20Transient%20Discovery%20Report%22&sort=date%20desc%2C%20bibcode%20desc&p_=0) | [TNS](https://www.wis-tns.org/ads/TNSTR-2024-2379))</small>
 
 * <small>Pessi, P. J. et al. (2024), "Hostless candidates detected by ELEPHANT" (multiple), _Transient Name Server AstroNote_, 2024-153 onwards ([NASA ADS](https://ui.adsabs.harvard.edu/search/q=abs%3A%22Hostless%20candidates%20detected%20by%20ELEPHANT%22&sort=date%20desc%2C%20bibcode%20desc&p_=0) | [TNS](https://www.wis-tns.org/astronotes/astronote/2024-153))</small>
 
