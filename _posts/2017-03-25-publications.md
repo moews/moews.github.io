@@ -10,6 +10,8 @@ categories: posts
 
 ## Journal papers and preprints
 
+<!--* <small>Caceres, H. E. and Moews, B. (2024), "Evaluating utility in synthetic banking microdata applications", _working paper_ ([arxiv]())</small>-->
+
 * <small>Ibikunle, G. et al. (2024), "Can machine learning unlock new insights into high-frequency trading?", _working paper_ ([arxiv](https://arxiv.org/abs/2405.08101))</small>
 
 * <small>Pessi, P. J. et al. (2024), "ELEPHANT: Extragalactic alert pipeline for hostless astronomical transients", _Astronomy & Astrophysics_, forthcoming ([journal](https://doi.org/10.1051/0004-6361/202450535 ) | [arXiv](https://arxiv.org/abs/2404.18165))</small>
