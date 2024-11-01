@@ -10,7 +10,7 @@ categories: posts
 
 ## Journal papers and preprints
 
-<small>Caceres, H. E. and Moews, B. (2024), "Evaluating utility in synthetic banking microdata applications", _working paper_ ([arxiv](https://arxiv.org/abs/2410.22519))</small>
+* <small>Caceres, H. E. and Moews, B. (2024), "Evaluating utility in synthetic banking microdata applications", _working paper_ ([arxiv](https://arxiv.org/abs/2410.22519))</small>
 
 * <small>Ibikunle, G. et al. (2024), "Can machine learning unlock new insights into high-frequency trading?", _working paper_ ([arxiv](https://arxiv.org/abs/2405.08101))</small>
 
