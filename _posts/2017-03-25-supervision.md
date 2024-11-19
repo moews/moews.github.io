@@ -54,10 +54,18 @@ Primary areas for potential research supervision include the following overarchi
 * AI in cosmology in collaboration with other schools
 -->
 
+<!--
 * Financial technology and econometric analysis
 * Spatio-temporal statistics for societal challenges
 * Deep learning frameworks and synthetic datasets
-* Applied machine learning in operational research 
+* Applied machine learning in operational research
+-->
+  
+* Pure and applied machine and deep learning
+* Financial technology and econometric analysis
+* Spatio-temporal statistics for societal challenges
+* Synthetic data and privacy-preserving techniques
+
 
 <div style="height:25px;font-size:1px;">&nbsp;</div>
 
