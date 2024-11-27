@@ -61,10 +61,10 @@ Primary areas for potential research supervision include the following overarchi
 * Synthetic data and privacy-preserving techniques
 -->
 
+* Domain-specific machine learning methods
 * Financial technology and econometric analysis
 * Spatio-temporal statistics for societal challenges
 * Deep learning frameworks and synthetic datasets
-* Applied machine learning for operational research
 
 
 
