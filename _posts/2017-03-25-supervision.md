@@ -66,12 +66,13 @@ Primary areas for potential research supervision include the following overarchi
 * Spatio-temporal statistics for societal challenges
 * Deep learning frameworks and synthetic datasets
 
-
-
-
 <div style="height:25px;font-size:1px;">&nbsp;</div>
 
-Potential PhD and master's students interested in working within one of these areas, or on a broadly related topic in line with my research profile, are welcome to send me an email with their CV and a research proposal. I'm also open to the supervision of students with a background in different numerate disciplines such as physics and computer science who are looking to change fields, as well as joint supervisions with other schools at the University of Edinburgh.
+Potential PhD and master’s students interested in working within one of these areas, or on a broadly related topic in line with my research profile, are welcome to send me an email with their CV and a research proposal. This also covers research using machine learning in other fields, provided a second supervisor acts as a domain expert for the respective area of application.
+
+I’m also open to the supervision of students with a background in different numerate disciplines such as physics and computer science who are looking to change fields, as well as joint supervisions with other schools at the University of Edinburgh for interdisciplinary research.
+
+<!--Potential PhD and master's students interested in working within one of these areas, or on a broadly related topic in line with my research profile, are welcome to send me an email with their CV and a research proposal. I'm also open to the supervision of students with a background in different numerate disciplines such as physics and computer science who are looking to change fields, as well as joint supervisions with other schools at the University of Edinburgh.-->
 
 <!--
 I'm likely to ignore expressions of interest written by generative AI programmes.
