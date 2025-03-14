@@ -66,6 +66,8 @@ REMOVE CONFERENCES
 
 ## Conference presentations
 
+* <small>"Domain applications of privacy-preserving mechanisms in synthetic data disclosure of financial regulators", _34th Eur. Conference on OR (EURO 2025)_, Leeds, UK, June 22-25, 2024</small>
+
 * <small>"Spatio-temporal analysis of variable-density clusters in hot spot policing", _33rd Eur. Conference on OR (EURO 2024)_, Copenhagen, Denmark, June-July 30-3, 2024</small>
 
 * <small>"Data sensitivity and risk adjustment in high-dimensional predictive clustering of operating fundamentals", _3rd Edinburgh Conference on the Economics of FinTech (EFT 2024)_, Edinburgh, UK, June 19-21, 2024</small>
