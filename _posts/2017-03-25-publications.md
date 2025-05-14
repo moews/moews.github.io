@@ -66,6 +66,8 @@ REMOVE CONFERENCES
 
 ## Conference presentations
 
+* <small>"Statistical extragalactic event detection in astronomical data streams", _Royal Statistical Society 2025 International Conference (RSS 2025)_, Edinburgh, UK, September 1-4, 2025</small>
+
 * <small>"Synthetic microdata and central bank data disclosure in Paraguay", _19th Credit Scoring and Credit Control Conference (CRC 2025)_, Edinburgh, UK, August 27-19, 2025</small>
 
 * <small>"Domain applications of privacy-preserving mechanisms in synthetic data disclosure of financial regulators", _34th Eur. Conference on OR (EURO 2025)_, Leeds, UK, June 22-25, 2025</small>
