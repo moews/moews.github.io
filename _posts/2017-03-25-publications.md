@@ -96,7 +96,7 @@ REMOVE CONFERENCES
 
 * <small>"Deep-learning for predictive correlations in stable and volatile markets", _1st Edinburgh Conference on the Economics of FinTech (EFT 2020)_, Edinburgh, UK, postponed due to COVID‑19</small>
 
-* <small>"Ridge-estimating DES", _16th Durham-Edinburgh eXtragalactic Workshop: 2020 Vision - Progress and Tensions in Astronomy (DEX-XVI)_, Durham, UK, January 6-7, 2020</small>
+* <small>"Ridge-estimating DES for cosmic troughs", _16th Durham-Edinburgh eXtragalactic Workshop: 2020 Vision - Progress and Tensions in Astronomy (DEX-XVI)_, Durham, UK, January 6-7, 2020</small>
 
 * <small>"How random are intraday stock prices? Evidence from deep learning", _3rd Eur. Capital Markets Cooperative Research Center Workshop_, Dublin, Ireland, July 5, 2019</small>
 
