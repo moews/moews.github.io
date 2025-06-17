@@ -70,7 +70,7 @@ Primary areas for potential research supervision include the following overarchi
 
 Potential PhD students interested in working within one of these areas, or on a broadly related topic in line with my research profile, are welcome to send me an email with their CV and a research proposal. This also covers research using machine learning in other fields, provided a second supervisor acts as a domain expert for the respective area of application.
 
-I’m also open to the supervision of students with a background in different numerate disciplines such as physics and computer science who are looking to change fields, as well as joint supervisions with other schools at the University of Edinburgh for interdisciplinary research.
+I’m also open to the supervision of students with a background in different numerate disciplines such as physics and computer science who are looking to change fields, as well as joint supervisions with other schools at the University of Edinburgh for interdisciplinary research. I am unlikely to answer inquiries about PhD supervision that are written using LLMs or lack a research proposal.
 
 In addition, I'm available as a mentor for [Marie Skłodowska-Curie Actions (MSCA)](https://www.business-school.ed.ac.uk/about/news/marie-sklodowska-curie-actions-msca-postdoctoral-fellowships) Postdoctoral Fellowship applications, with a deadline to secure mentors on 2025-06-11.
 
