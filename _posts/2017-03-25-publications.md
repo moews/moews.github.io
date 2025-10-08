@@ -10,7 +10,7 @@ categories: posts
 
 ## Journal papers and preprints
 
-* <small>Moews, B. and Gieschen, A. (2023), "SCADDA: Spatio-temporal cluster analysis with density-based distance augmentation and its application to fire carbon emissions", _Geographical Analysis_, forthcoming ([arxiv](https://arxiv.org/abs/2311.04290))</small>
+* <small>Moews, B. and Gieschen, A. (2025), "SCADDA: Spatio-temporal cluster analysis with density-based distance augmentation and its application to fire carbon emissions", _Geographical Analysis_, forthcoming ([arxiv](https://arxiv.org/abs/2311.04290))</small>
 
 * <small>Ibikunle, G. et al. (2024), "Data-driven measures of high-frequency trading", _working paper_ ([arxiv](https://arxiv.org/abs/2405.08101))</small>
 
