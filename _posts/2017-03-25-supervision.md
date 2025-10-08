@@ -72,9 +72,8 @@ Primary areas for potential research supervision include the following overarchi
 * Problem-oriented machine learning methods
 * Financial technology and market microstructure
 * Deep learning frameworks and synthetic datasets
+* Spatio-temporal analysis and technical geography
 * Bayesian inference and high-dimensional statistics
-* Spatio-temporal statistics and technical geography
-
 
 <div style="height:25px;font-size:1px;">&nbsp;</div>
 
