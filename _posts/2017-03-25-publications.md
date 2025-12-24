@@ -25,15 +25,15 @@ categories: posts
 
 * <small>Moews, B. (2024), "On random number generators and practical market efficiency", _Journal of the Operational Research Society_, Vol. 75(5), pp. 907-920 ([journal](https://doi.org/10.1080/01605682.2023.2219292) | [arXiv](https://arxiv.org/abs/2305.17419))</small>
 
-* <small>Dai, Z. et al. (2024), "Physics-informed neural networks in the recreation of hydrodynamic simulations from dark matter", _Monthly Notices of the RAS_, Vol. 527(2), pp. 3381-3394 ([journal](https://doi.org/10.1093/mnras/stad3394) | [arxiv](https://arxiv.org/abs/2303.14090))</small>
+* <small>Dai, Z. et al. (2024), "Physics-informed neural networks in the recreation of hydrodynamic simulations from dark matter", _Monthly Notices of the Royal Astronomical Society_, Vol. 527(2), pp. 3381-3394 ([journal](https://doi.org/10.1093/mnras/stad3394) | [arxiv](https://arxiv.org/abs/2303.14090))</small>
 
-* <small>Zhang, T. et al. (2023), "Photometric redshift uncertainties in weak gravitational lensing shear analysis: Models and marginalization", _Monthly Notices of the RAS_, Vol. 518(1), pp. 709-723 ([journal](https://doi.org/10.1093/mnras/stac3090) | [arxiv](https://arxiv.org/abs/2206.10169))</small>
+* <small>Zhang, T. et al. (2023), "Photometric redshift uncertainties in weak gravitational lensing shear analysis: Models and marginalization", _Monthly Notices of the Royal Astronomical Society_, Vol. 518(1), pp. 709-723 ([journal](https://doi.org/10.1093/mnras/stac3090) | [arxiv](https://arxiv.org/abs/2206.10169))</small>
 
-* <small>Moews, B. et al. (2021), "Hybrid analytic and machine-learned baryonic property insertion into galactic dark matter haloes", _Monthly Notices of the RAS_, Vol. 504(3), pp. 4024-4038 ([journal](https://doi.org/10.1093/mnras/stab1120) | [arxiv](https://arxiv.org/abs/2012.05820))</small>
+* <small>Moews, B. et al. (2021), "Hybrid analytic and machine-learned baryonic property insertion into galactic dark matter haloes", _Monthly Notices of the Royal Astronomical Society_, Vol. 504(3), pp. 4024-4038 ([journal](https://doi.org/10.1093/mnras/stab1120) | [arxiv](https://arxiv.org/abs/2012.05820))</small>
 
 * <small>Moews, B. et al. (2021), "Filaments of crime: Informing policing via thresholded ridge estimation", _Decision Support Systems_, Vol. 144, pp. 113518 ([journal](https://doi.org/10.1016/j.dss.2021.113518) | [arXiv](https://arxiv.org/abs/1907.03206))</small>
 
-* <small>Moews, B. et al. (2021), "Ridges in the Dark Energy Survey for cosmic trough identification", _Monthly Notices of the RAS_, Vol. 500(1), pp. 859-870 ([journal](https://doi.org/10.1093/mnras/staa3204) | [arxiv](https://arxiv.org/abs/2005.08583))</small>
+* <small>Moews, B. et al. (2021), "Ridges in the Dark Energy Survey for cosmic trough identification", _Monthly Notices of the Royal Astronomical Society_, Vol. 500(1), pp. 859-870 ([journal](https://doi.org/10.1093/mnras/staa3204) | [arxiv](https://arxiv.org/abs/2005.08583))</small>
 
 * <small>Moews, B. and Zuntz, J., (2020), "Gaussbock: Fast parallel-iterative cosmological parameter estimation with Bayesian nonparametrics", _The Astrophysical Journal_, Vol. 896(2), pp. 98 ([journal](https://doi.org/10.3847%2F1538-4357%2Fab93cb) | [arXiv](https://arxiv.org/abs/1905.09800))</small>
 
@@ -41,11 +41,11 @@ categories: posts
 
 * <small>Boucaud, A. et al. (2020), "Photometry of high-redshift blended galaxies using deep learning", _Monthly Notices of the RAS_, Vol. 491(2), pp. 2481-2495 ([journal](https://doi.org/10.1093/mnras/stz3056) | [arXiv](https://arxiv.org/abs/1905.01324))</small>
 
-* <small>Giblin, B. et al. (2019), "On the road to per cent level accuracy II: Calibration of the non-linear matter power spectrum for arbitrary cosmologies", _Monthly Notices of the RAS_, Vol. 490(4), pp. 4826-4840 ([journal](https://doi.org/10.1093/mnras/stz2659) | [arXiv](https://arxiv.org/abs/1906.02742))</small>
+* <small>Giblin, B. et al. (2019), "On the road to per cent level accuracy II: Calibration of the non-linear matter power spectrum for arbitrary cosmologies", _Monthly Notices of the Royal Astronomical Society_, Vol. 490(4), pp. 4826-4840 ([journal](https://doi.org/10.1093/mnras/stz2659) | [arXiv](https://arxiv.org/abs/1906.02742))</small>
 
 * <small>Moews, B. et al. (2019), "Stress testing the dark energy equation of state imprint on supernova data", _Physical Review D_, Vol. 99, pp. 123529 ([journal](https://doi.org/10.1103/PhysRevD.99.123529) | [arXiv](https://arxiv.org/abs/1812.09786))</small>
 
-* <small>Fussell, L. and Moews, B. (2019), "Forging new worlds: High-resolution synthetic galaxies with chained generative adversarial networks", _Monthly Notices of the RAS_, Vol. 485(3), pp. 3203-3214 ([journal](https://doi.org/10.1093/mnras/stz602) | [arXiv](https://arxiv.org/abs/1811.03081))</small>
+* <small>Fussell, L. and Moews, B. (2019), "Forging new worlds: High-resolution synthetic galaxies with chained generative adversarial networks", _Monthly Notices of the Royal Astronomical Society_, Vol. 485(3), pp. 3203-3214 ([journal](https://doi.org/10.1093/mnras/stz602) | [arXiv](https://arxiv.org/abs/1811.03081))</small>
 
 * <small>Cantat-Gaudin, T. et al. (2019), "Gaia DR2 unravels incompleteness of nearby cluster population: New open clusters in the direction of Perseus", _Astronomy & Astrophysics_, Vol. 624, pp. A126 ([journal](https://doi.org/10.1051/0004-6361/201834453) | [arXiv](https://arxiv.org/abs/1810.05494))</small>
 
