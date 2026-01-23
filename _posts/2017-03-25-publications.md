@@ -10,9 +10,8 @@ categories: posts
 
 ## Journal papers and preprints
 
-<!--
-* <small>Pan, J. and Moews, B. (2025), "Public transport challenges and technology-assisted accessibility for visually impaired elderly residents in urban environments", _working paper_, ([arxiv]())</small>
--->
+* <small>Pan, J. and Moews, B. (2025), "Public transport challenges and technology-assisted accessibility for visually impaired elderly residents in urban environments", _working paper_, ([arxiv](https://arxiv.org/abs/2601.15291))</small>
+
 * <small>Moews, B. (2025), "Permanent and transitory crime risk in variable-density hot spot analysis", _working paper_ ([arxiv](https://arxiv.org/abs/2512.07467))</small>
 
 * <small>Moews, B. and Gieschen, A. (2025), "SCADDA: Spatio-temporal cluster analysis with density-based distance augmentation and its application to fire carbon emissions", _Geographical Analysis_, Vol. 58(1), pp. e70030 ([journal](https://doi.org/10.1111/gean.70030) | [arxiv](https://arxiv.org/abs/2311.04290))</small>
