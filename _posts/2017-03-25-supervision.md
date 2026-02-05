@@ -81,12 +81,10 @@ Potential PhD students interested in working within one of these areas, or on a 
 
 I’m also open to the supervision of students with a background in different numerate disciplines such as physics and computer science who are looking to change fields, as well as joint supervisions with other schools at the University of Edinburgh for interdisciplinary research. I'm unlikely to answer inquiries about PhD supervision written using LLMs or lacking a research proposal.
 
-In addition, I'm available as a mentor for [Marie Skłodowska-Curie Actions (MSCA)](https://www.business-school.ed.ac.uk/about/news/marie-sklodowska-curie-actions-msca-postdoctoral-fellowships) Postdoctoral Fellowship applications, with a deadline to secure mentors on 2025-06-11.
+In addition, I'm available as a mentor for [Marie Skłodowska-Curie Actions (MSCA)](https://www.business-school.ed.ac.uk/about/news/marie-sklodowska-curie-actions-msca-postdoctoral-fellowships) Postdoctoral Fellowship applications.
 
 <!--Potential PhD and master's students interested in working within one of these areas, or on a broadly related topic in line with my research profile, are welcome to send me an email with their CV and a research proposal. I'm also open to the supervision of students with a background in different numerate disciplines such as physics and computer science who are looking to change fields, as well as joint supervisions with other schools at the University of Edinburgh.-->
 
-<!--
 I'm likely to ignore expressions of interest written by generative AI programmes.
--->
 
 <br>
