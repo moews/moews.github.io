@@ -79,12 +79,12 @@ Primary areas for potential research supervision include the following overarchi
 
 Potential PhD students interested in working within one of these areas, or on a broadly related topic in line with my research profile, are welcome to send me an email with their CV and a research proposal. This also covers research using machine learning in other fields, provided a second supervisor acts as a domain expert for the respective area of application.
 
-I’m also open to the supervision of students with a background in different numerate disciplines such as physics and computer science who are looking to change fields, as well as joint supervisions with other schools at the University of Edinburgh for interdisciplinary research. I'm unlikely to answer inquiries about PhD supervision written using LLMs or lacking a research proposal.
+I’m also open to the supervision of students with a background in different numerate disciplines such as physics and computer science who are looking to change fields, as well as joint supervisions with other schools at the University of Edinburgh for interdisciplinary research. In addition, I'm available as a mentor for [Marie Skłodowska-Curie Actions (MSCA)](https://www.business-school.ed.ac.uk/about/news/marie-sklodowska-curie-actions-msca-postdoctoral-fellowships) Postdoctoral Fellowship applications.
 
-In addition, I'm available as a mentor for [Marie Skłodowska-Curie Actions (MSCA)](https://www.business-school.ed.ac.uk/about/news/marie-sklodowska-curie-actions-msca-postdoctoral-fellowships) Postdoctoral Fellowship applications.
+I'm unlikely to answer inquiries about PhD supervision written using LLMs or lacking a research proposal.
 
 <!--Potential PhD and master's students interested in working within one of these areas, or on a broadly related topic in line with my research profile, are welcome to send me an email with their CV and a research proposal. I'm also open to the supervision of students with a background in different numerate disciplines such as physics and computer science who are looking to change fields, as well as joint supervisions with other schools at the University of Edinburgh.-->
 
-I'm likely to ignore expressions of interest written by generative AI programmes.
+<!--I'm likely to ignore expressions of interest written by generative AI programmes.-->
 
 <br>
