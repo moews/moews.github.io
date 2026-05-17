@@ -66,7 +66,7 @@ categories: posts
 * Deep learning frameworks and synthetic datasets
 -->
 
-Primary areas for potential research supervision are machine learning and statistics, both methodology and the application to a variety of topcis. Potential PhD students are welcome to send me an email with their CV and a research proposal. This also covers research using these methods in fields other than the ones covered by my own research, provided the second supervisor acts as a domain expert for the respective area of application.
+Primary areas for potential research supervision are machine learning and statistics, which includes both methodology and the application to a variety of topcis. Potential PhD students are welcome to send me an email with their CV and a research proposal. This also covers research using these methods in fields other than the ones covered by my own research, provided the second supervisor acts as a domain expert for the respective area of application.
 
 <!--
 * Problem-oriented machine learning methods
