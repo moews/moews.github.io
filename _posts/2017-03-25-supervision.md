@@ -84,7 +84,7 @@ I’m also open to the supervision of students with a background in different nu
 
 I'm unlikely to answer inquiries for supervision written using LLMs or lacking a research proposal.
 
-For undergraduate summer projects, see the [Domain-Driven Machine Learning Lab](https://2dml-lab.github.io/summer_projects.html)'s homepage.
+For undergraduate summer projects, see the [Domain-Driven Machine Learning Lab](https://2dml-lab.github.io)'s homepage.
 
 <!--Potential PhD and master's students interested in working within one of these areas, or on a broadly related topic in line with my research profile, are welcome to send me an email with their CV and a research proposal. I'm also open to the supervision of students with a background in different numerate disciplines such as physics and computer science who are looking to change fields, as well as joint supervisions with other schools at the University of Edinburgh.-->
 
