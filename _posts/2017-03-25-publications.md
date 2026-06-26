@@ -10,6 +10,8 @@ categories: posts
 
 ## Journal papers and preprints
 
+* <small>Fässler, N. and Moews, B. (2026), "Crime reduction through public healthcare: Interpretable machine learning for mental health service impacts in Greater London", _working paper_, ([arxiv](https://arxiv.org/abs/2606.26202))</small>
+
 * <small>Nikjoo et al. (2026), "Weak lensing by photometric density ridges", _working paper_, ([arxiv](https://arxiv.org/abs/2603.04025))</small>
 
 * <small>Pan, J. and Moews, B. (2025), "Public transport challenges and technology-assisted accessibility for visually impaired elderly residents in urban environments", _working paper_, ([arxiv](https://arxiv.org/abs/2601.15291))</small>
