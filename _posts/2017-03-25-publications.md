@@ -14,7 +14,7 @@ categories: posts
 
 * <small>Nikjoo et al. (2026), "Weak lensing by photometric density ridges", _working paper_, ([arxiv](https://arxiv.org/abs/2603.04025))</small>
 
-* <small>Pan, J. and Moews, B. (2025), "Public transport challenges and technology-assisted accessibility for visually impaired elderly residents in urban environments", _working paper_, ([arxiv](https://arxiv.org/abs/2601.15291))</small>
+* <small>Pan, J. and Moews, B. (2025), "Public transport challenges and technology-assisted accessibility for visually impaired elderly residents in urban environments", _Journal of Transport Geography_, forthcoming ([arxiv](https://arxiv.org/abs/2601.15291))</small>
 
 * <small>Moews, B. (2025), "Permanent and transitory crime risk in variable-density hot spot analysis", _working paper_ ([arxiv](https://arxiv.org/abs/2512.07467))</small>
 
