@@ -82,7 +82,7 @@ Potential PhD students interested in working within one of these areas, or on a 
 
 I’m also open to the supervision of students with a background in different numerate disciplines such as physics and computer science who are looking to change fields, as well as joint supervisions with other schools at the University of Edinburgh for interdisciplinary research. In addition, I'm available as a mentor for [Marie Skłodowska-Curie Actions (MSCA)](https://www.business-school.ed.ac.uk/about/news/marie-sklodowska-curie-actions-msca-postdoctoral-fellowships) Postdoctoral Fellowship applications.
 
-I'm unlikely to answer inquiries for supervision written using LLMs or lacking a research proposal.
+I'm unlikely to reply to supervision inquiry emails or research proposals written using LLMs, or to supervision inquiries lacking a research proposal.
 
 For undergraduate summer projects, see the [Domain-Driven Machine Learning Lab](https://2dml-lab.github.io)'s homepage.
 
